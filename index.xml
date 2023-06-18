@@ -717,30 +717,6 @@ Uppsala Learning Lab - Uppsala University.
     </item>
     
     <item>
-      <title>Benford&#39;s Law</title>
-      <link>/teaching/benford/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/teaching/benford/</guid>
-      <description>
-
-
-&lt;div id=&#34;prerequisites&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Prerequisites&lt;/h2&gt;
-&lt;p&gt;This example builds on the benford.analysis and rattle package in r. If you don’t have
-the package installed you can type the following:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;install.packages(&amp;quot;benford.analysis&amp;quot;)
-install.packages(&amp;quot;rattle&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;To load the package you can type the following:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(benford.analysis)&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;basic-example&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Basic example&lt;/h2&gt;
-&lt;p&gt;The benford analysis package comes with a couple of datasets.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Contributions in Books / Edited Volumes</title>
       <link>/publicationlists/publications-edited/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
@@ -934,66 +910,6 @@ propensity to post a review ?&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
-    
-    <item>
-      <title></title>
-      <link>/teaching/rvest-rselenium.nb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/teaching/rvest-rselenium.nb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research Skills for Postgraduate Researchers</title>
-      <link>/teaching/slides_research_skills_gscholar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/teaching/slides_research_skills_gscholar/</guid>
-      <description>
-
-
-&lt;div id=&#34;in-the-morning&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;In the morning&lt;/h1&gt;
-&lt;div id=&#34;getting-up&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Getting up&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Turn off alarm&lt;/li&gt;
-&lt;li&gt;Get out of bed&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;breakfast&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Breakfast&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Eat eggs&lt;/li&gt;
-&lt;li&gt;Drink coffee&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;in-the-evening&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;In the evening&lt;/h1&gt;
-&lt;div id=&#34;dinner&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Dinner&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Eat spaghetti&lt;/li&gt;
-&lt;li&gt;Drink wine&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:cars&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/teaching/slides_research_skills_gscholar_files/figure-html/cars-1.png&#34; alt=&#34;A scatterplot.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A scatterplot.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;going-to-sleep&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Going to sleep&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Get in bed&lt;/li&gt;
-&lt;li&gt;Count sheep&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
+     
   </channel>
 </rss>
