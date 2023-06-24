@@ -12,28 +12,28 @@ email: todor.v.ivanov@gmail.com
 website: https://t-ivanov.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  t-ivanov
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+linkedin_username: tivanov
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+#youtube_username: globalmtb
+#googleplus_username: https://scholar.google.com/citations?user=cPnoKVEAAAAJ&hl=en
+orcid_username: 0000-0002-9679-8947
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: google_scholar
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://scholar.google.com/citations?user=cPnoKVEAAAAJ&hl=en
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
