@@ -100,13 +100,13 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-    - title: Publications
+   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - Big Data and AI Pipeline Framework: Technology Analysis from a Benchmarking Perspective
-          Arne Berre, Aphrodite Tsalgatidou, Chiara Francalanci, Todor Ivanov, Tomas Pariente-Lobo,
-          Ricardo Ruiz-Saiz, Inna Novalija and Marko Grobelnik, In Technologies and Applications for
-          Big Data Value, Springer, Cham , pp. 63–88, 2022
+      - Big Data and AI Pipeline Framework: Technology Analysis from a Benchmarking Perspective
+        Arne Berre, Aphrodite Tsalgatidou, Chiara Francalanci, Todor Ivanov, Tomas Pariente-Lobo,
+        Ricardo Ruiz-Saiz, Inna Novalija and Marko Grobelnik, In Technologies and Applications for
+        Big Data Value, Springer, Cham , pp. 63–88, 2022
               
 
   - title: A Little More About Me
