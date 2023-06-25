@@ -32,9 +32,9 @@ orcid_username: 0000-0002-9679-8947
 
 # Additional icon links
 additional_links:
-  - title: google_scholar
-    icon: fas fa-globe
-    url: https://scholar.google.com/citations?user=cPnoKVEAAAAJ&hl=en
+#  - title: google_scholar
+#    icon: fas fa-globe
+#    url: https://scholar.google.com/citations?user=cPnoKVEAAAAJ&hl=en
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -49,8 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/Ivanov.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. 
-  I am interested in the design and benchmarking of complex distributed software systems or data-intensive applications. In particular, I am interested in software architectures, virtualization, performance optimizations, scalability, effective storage and processing of structured and unstructured data in large systems.
+    I am interested in the design and benchmarking of complex distributed software systems or data-intensive applications. In particular, I am interested in software architectures, virtualization, performance optimizations, scalability, effective storage and processing of structured and unstructured data in large systems.
 
 content:
 
