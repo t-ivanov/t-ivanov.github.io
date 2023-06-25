@@ -49,9 +49,45 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/Ivanov.png
 about_content: | # this will include new lines to allow paragraphs
-    I am interested in the design and benchmarking of complex distributed software systems or data-intensive applications. In particular, I am interested in software architectures, virtualization, performance optimizations, scalability, effective storage and processing of structured and unstructured data in large systems.
+  I am interested in the design and benchmarking of complex distributed software systems or data-intensive applications. In particular, I am interested in software architectures, virtualization, performance optimizations, scalability, effective storage and processing of structured and unstructured data in large systems.
 
 content:
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Goethe University Frankfurt
+        caption: 2014 - 2019
+        sub_title: Doctorate of Natural Sciences (Dr. rer. nat.) in Computer Science
+        quote: >
+          Databases and Information Systems (DBIS), Goethe University Frankfurt
+        description: | # this will include new lines to allow paragraphs
+          [Doctoral thesis: “Classifying, Evaluating and Advancing Big Data Benchmarks”](http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/51157)
+          
+          Thesis advisor: Prof. Dott. -Ing. Roberto V. Zicari
+
+      - layout: left
+        title: Technical University of Darmstadt
+        caption: 2011 - 2014
+        sub_title: Master of Science in Distributed Software Systems
+        quote: >
+          Department of Computer Science, Technical University of Darmstadt
+        description: | # this will include new lines to allow paragraphs
+          Master thesis: Benchmarking Hadoop Clusters: An Empirical Study
+          
+          Thesis advisors: Alejandro Buchmann (TU Darmstadt) and Roberto V. Zicari (Goethe University Frankfurt)
+
+      - layout: left
+        title: Technical University of Darmstadt
+        caption: 2003 - 2009
+        sub_title: Bachelor of Science in Computational Engineering
+        quote: >
+          Department of Computational Engineering, Technical University of Darmstadt
+        description: | # this will include new lines to allow paragraphs
+          Bachelor thesis: Analysis of Database Performance in Virtual Environments
+          
+          Thesis advisors: Alejandro Buchmann (TU Darmstadt) and Ilia Petrov (TU Darmstadt)
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -86,28 +122,14 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Big Data and AI Pipeline Framework: Technology Analysis from a Benchmarking Perspective
-        
+      
         Arne Berre, Aphrodite Tsalgatidou, Chiara Francalanci, **Todor Ivanov**, Tomas Pariente-Lobo,
         Ricardo Ruiz-Saiz, Inna Novalija and Marko Grobelnik,
-        
+      
         *In Technologies and Applications for Big Data Value, Springer, Cham , pp. 63–88, 2022*
 
 
