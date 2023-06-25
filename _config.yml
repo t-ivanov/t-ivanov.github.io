@@ -12,7 +12,7 @@ email: todor.v.ivanov@gmail.com
 website: https://t-ivanov.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 #twitter_username: facespics
@@ -27,6 +27,7 @@ linkedin_username: tivanov
 # pinterest_username: jekyll
 #youtube_username: globalmtb
 #googleplus_username: https://scholar.google.com/citations?user=cPnoKVEAAAAJ&hl=en
+googlescholar_username: cPnoKVEAAAAJ&hl
 orcid_username: 0000-0002-9679-8947
 
 # Additional icon links
@@ -103,8 +104,8 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Big Data and AI Pipeline Framework: Technology Analysis from a Benchmarking Perspective
-        Arne Berre, Aphrodite Tsalgatidou, Chiara Francalanci, Todor Ivanov, Tomas Pariente-Lobo,
+      - Big Data and AI Pipeline Framework: Technology Analysis from a Benchmarking Perspective |
+        Arne Berre, Aphrodite Tsalgatidou, Chiara Francalanci,  <mark>Todor Ivanov<mark>, Tomas Pariente-Lobo,
         Ricardo Ruiz-Saiz, Inna Novalija and Marko Grobelnik, In Technologies and Applications for
         Big Data Value, Springer, Cham , pp. 63–88, 2022
 
