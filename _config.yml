@@ -213,7 +213,7 @@ content:
       
         *Proceedings of the 8th International Workshop on Testing Database Systems part of SIGMOD 2020, DBTest 2020 , June 19, Portland, Oregon, USA, 2020*
       
-       - **Building the DataBench Workflow and Architecture**
+      - **Building the DataBench Workflow and Architecture**
       
         **Todor Ivanov**, Timo Eichhorn, Arne-Jørgen, Tomás Pariente Lobo, Ivan Martinez Rodriguez, Ricardo Ruiz Saiz, Barbara Pernici and Chiara Francalanci,
       
@@ -221,9 +221,9 @@ content:
       
       - **The Influence of Columnar File Formats on SQL-on-Hadoop Engine Performance: A Study on ORC and Parquet**
       
-       **Todor Ivanov** and Matteo Pergolesi,
+        **Todor Ivanov** and Matteo Pergolesi,
       
-       *Journal Concurrency and Computation: Practice and Experience, [Wiley Online Library](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.5523) , e5523, 2019*
+        *Journal Concurrency and Computation: Practice and Experience, [Wiley Online Library](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.5523) , e5523, 2019*
 
   - title: Activities & Participations
     layout: text
