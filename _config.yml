@@ -62,7 +62,7 @@ content:
         #sub_title: Senior Network System Administrator
         caption: July 2020 - Present
         quote: >
-          **Senior Big Data Engineer/ Tech Lead**
+          Senior Big Data Engineer/ Tech Lead
         description: | # this will include new lines to allow paragraphs
           Specification, development and implementation of data and analytics intensive applications for various customer projects using Big Data technologies (Spark, Hadoop, MapR, Hive, Solar, Airflow and more).
 
@@ -73,9 +73,62 @@ content:
         sub_title: Goethe University Frankfurt
         caption: July 2014 - June 2020
         quote: >
-          **Senior Researcher/ Lab CTO**
+          Senior Researcher/ Lab CTO
         description: | # this will include new lines to allow paragraphs
           Performance and system analysis of Big Data technologies using various Big Data benchmarks (HiBench, TPCx-HS & BigBench) as well as developing and improving Big Data benchmarks.
+
+      - layout: left
+        title: SashiDo
+        link: www.sashido.io
+        # link_text: boringcompany.com
+        #sub_title:
+        caption: Feb. 2016 - Feb. 2018
+        quote: >
+          Head of Big Data Innovations & Co-Founder
+        description: | # this will include new lines to allow paragraphs
+          SashiDo is a mobile back-end service built for convenience, easiness and simple developing.
+
+      - layout: left
+        title: Adastra GmbH
+        link: de.adastragrp.com/de/
+        # link_text: boringcompany.com
+        sub_title: Frankfurt am Main
+        caption: Jan. 2013 - Apr. 2014
+        quote: >
+          Junior IT Consultant
+        description: | # this will include new lines to allow paragraphs
+          Involved in multiple internal projects using: VMware ESXi, IBM Cognos, MS SharePoint, MS SQL Server, Oracle, Informatica and more. 
+          
+          Development of Data mart and automated UC4 Flowchart Documentation for MS Visio using XSLT transformation for Commerzbank AG, Frankfurt.
+
+      - layout: left
+        title: Databases and Distributed Systems (DVS)
+        link: www.dvs.tu-darmstadt.de/research/flashydb/index.html
+        # link_text: boringcompany.com
+        sub_title: Technical University of Darmstadt
+        caption: Oct. 2010 - Sept. 2012
+        quote: >
+          Research Assistant
+        description: | # this will include new lines to allow paragraphs
+          Instrumented and performed multiple experiments with various benchmarks (TPC-B/C/H) to investigate the database performance (MySQL and PostrgeSQL) on Solid State Drives (SSDs). 
+          
+          Worked on the design and implementation of the Hybrid Page Layout (HPL) and its testing framework.
+
+      - layout: left
+        title: Airbiz GmbH
+        #link:
+        # link_text: boringcompany.com
+        sub_title: Bischofsheim, Hessen
+        caption: July 2004 - Sept. 2010
+        quote: >
+          Senior Software Developer
+        description: | # this will include new lines to allow paragraphs
+          Involved in the development and implementation of fully-featured FIDS (Flight Information Display System) product FlightVision installed on multiple international airports; 
+          
+          Development of customized software modules and extensions; Integration in existing airport information systems. 
+          
+          Completed projects and setup production systems on multiple airports: Fraport Frankfurt and Frankfurt-Hahn Airports in Germany, Baghdad and Basra Airports in Iraq.              
+
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
