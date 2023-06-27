@@ -206,13 +206,31 @@ content:
         **Todor Ivanov** and Rekha Singhal,
       
         *Companion of the 2020 ACM/SPEC International Conference on Performance Engineering, ICPE2020, Edmonton, AB, Canada, April 20-24, 2020*
+      
+      - **CoreBigBench: Benchmarking Big Data Core Operations**
+      
+        **Todor Ivanov**, Ahmad Ghazal, Alain Crolotte, Pekka Kostamaa and Yoseph Ghazal,
+      
+        *Proceedings of the 8th International Workshop on Testing Database Systems part of SIGMOD 2020, DBTest 2020 , June 19, Portland, Oregon, USA, 2020*
+      
+       - **Building the DataBench Workflow and Architecture**
+      
+        **Todor Ivanov**, Timo Eichhorn, Arne-Jørgen, Tomás Pariente Lobo, Ivan Martinez Rodriguez, Ricardo Ruiz Saiz, Barbara Pernici and Chiara Francalanci,
+      
+        *In Proceedings of Benchmarking, Measuring, and Optimizing - Second BenchCouncil International Symposium, Bench 2019, Denver, CO, USA, November 14-16, 2019*
+      
+      - **The Influence of Columnar File Formats on SQL-on-Hadoop Engine Performance: A Study on ORC and Parquet**
+      
+       **Todor Ivanov** and Matteo Pergolesi,
+      
+       *Journal Concurrency and Computation: Practice and Experience, [Wiley Online Library](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.5523) , e5523, 2019*
 
   - title: Activities & Participations
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - 19 - 25 Aug. 2017 - Participant in the 3rd International Summer School for Big Data
-      - 2016 - 2019 - Vice Chair of the RG Big Data Working Group as part of SPEC Research Group
-      - Aug. - Sept. 2011 - IBM - zSummer University Participant in Böblingen Germany 
+      - 2016 - 2019 - Vice Chair of the [RG Big Data Working Group as part of SPEC Research Group](https://research.spec.org/working-groups/rg-big-data/meetings-and-presentations/)
+      - 19 Aug. - 1 Sept. 2017 - Participant in the 3rd International Summer School for Big Data and [VLDB 2017](https://www.vldb.org/2017/) in Munich, Germany
+      - Aug. - Sept. 2011 - IBM - zSummer University Participant in Böblingen, Germany 
 
 # Footer
 footer_show_references: true
