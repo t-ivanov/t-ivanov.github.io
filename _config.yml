@@ -62,7 +62,7 @@ content:
         #sub_title: Senior Network System Administrator
         caption: July 2020 - Present
         quote: >
-          Senior Big Data Engineer/ Tech Lead
+          Senior Big Data Engineer & Tech Lead
         description: | # this will include new lines to allow paragraphs
           Specification, development and implementation of data and analytics intensive applications for various customer projects using Big Data technologies (Spark, Hadoop, MapR, Hive, Solar, Airflow and more).
 
@@ -73,7 +73,7 @@ content:
         sub_title: Goethe University Frankfurt
         caption: July 2014 - June 2020
         quote: >
-          Senior Researcher/ Lab CTO
+          Senior Researcher & Lab CTO
         description: | # this will include new lines to allow paragraphs
           Performance and system analysis of Big Data technologies using various Big Data benchmarks (HiBench, TPCx-HS & BigBench) as well as developing and improving Big Data benchmarks.
 
@@ -91,7 +91,7 @@ content:
       - layout: left
         title: Adastra GmbH
         link: de.adastragrp.com/de/
-        # link_text: boringcompany.com
+        link_text: adastra.de
         sub_title: Frankfurt am Main
         caption: Jan. 2013 - Apr. 2014
         quote: >
@@ -104,7 +104,7 @@ content:
       - layout: left
         title: Databases and Distributed Systems (DVS)
         link: www.dvs.tu-darmstadt.de/research/flashydb/index.html
-        # link_text: boringcompany.com
+        link_text: DVS at TU Darmstadt
         sub_title: Technical University of Darmstadt
         caption: Oct. 2010 - Sept. 2012
         quote: >
