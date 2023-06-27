@@ -57,23 +57,23 @@ content:
     content:
       - layout: left
         title: DXC Technologies
-        link: boringcompany.com
+        link: www.dxc.com
         # link_text: boringcompany.com
         #sub_title: Senior Network System Administrator
         caption: July 2020 - Present
         quote: >
-          *Senior Big Data Engineer/ Tech Lead*
+          **Senior Big Data Engineer/ Tech Lead**
         description: | # this will include new lines to allow paragraphs
           Specification, development and implementation of data and analytics intensive applications for various customer projects using Big Data technologies (Spark, Hadoop, MapR, Hive, Solar, Airflow and more).
 
       - layout: left
         title: Frankfurt Big Data Lab
-        link: http://www.bigdata.uni-frankfurt.de
+        link: www.bigdata.uni-frankfurt.de
         # link_text: boringcompany.com
         sub_title: Goethe University Frankfurt
         caption: July 2014 - June 2020
         quote: >
-          *Senior Researcher/ Lab CTO*
+          **Senior Researcher/ Lab CTO**
         description: | # this will include new lines to allow paragraphs
           Performance and system analysis of Big Data technologies using various Big Data benchmarks (HiBench, TPCx-HS & BigBench) as well as developing and improving Big Data benchmarks.
 
