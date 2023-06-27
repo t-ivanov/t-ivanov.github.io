@@ -32,9 +32,9 @@ orcid_username: 0000-0002-9679-8947
 
 # Additional icon links
 additional_links:
-#  - title: google_scholar
-#    icon: fas fa-globe
-#    url: https://scholar.google.com/citations?user=cPnoKVEAAAAJ&hl=en
+  - title: dblp.org
+    icon: fas fa-globe
+    url: https://dblp.org/pid/49/10021.html
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -188,18 +188,24 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Big Data and AI Pipeline Framework: Technology Analysis from a Benchmarking Perspective
+      - **Big Data and AI Pipeline Framework: Technology Analysis from a Benchmarking Perspective**
       
         Arne Berre, Aphrodite Tsalgatidou, Chiara Francalanci, **Todor Ivanov**, Tomas Pariente-Lobo,
         Ricardo Ruiz-Saiz, Inna Novalija and Marko Grobelnik,
       
         *In Technologies and Applications for Big Data Value, Springer, Cham , pp. 63–88, 2022*
 
-      - Z-Inspection: A Process to Assess Trustworthy AI
+      - **Z-Inspection: A Process to Assess Trustworthy AI**
       
-        Roberto V. Zicari, John Brodersen, James Brusseau, Boris Düdder, Timo Eichhorn, **Todor Ivanov**, Georgios Kararigas, Pedro Kringen, Melissa McCullough, Florian Möslein, Naveed Mushtaq, Gemma Roig, Norman Stürtz, Karsten Tolle, Jesmin Jahan Tithi, Irmhild van Halem and Magnus Westerlund
+        Roberto V. Zicari, John Brodersen, James Brusseau, Boris Düdder, Timo Eichhorn, **Todor Ivanov**, Georgios Kararigas, Pedro Kringen, Melissa McCullough, Florian Möslein, Naveed Mushtaq, Gemma Roig, Norman Stürtz, Karsten Tolle, Jesmin Jahan Tithi, Irmhild van Halem and Magnus Westerlund,
       
-        *IEEE Transactions on Technology and Society,, 2021, 2, 83-97*
+        *IEEE Transactions on Technology and Society, 2021, 2, 83-97*
+
+      - **Tutorial on Benchmarking Big Data Analytics Systems**
+      
+        **Todor Ivanov** and Rekha Singhal,
+      
+        *Companion of the 2020 ACM/SPEC International Conference on Performance Engineering, ICPE2020, Edmonton, AB, Canada, April 20-24, 2020*
 
   - title: Activities & Participations
     layout: text
@@ -207,10 +213,6 @@ content:
       - 19 - 25 Aug. 2017 - Participant in the 3rd International Summer School for Big Data
       - 2016 - 2019 - Vice Chair of the RG Big Data Working Group as part of SPEC Research Group
       - Aug. - Sept. 2011 - IBM - zSummer University Participant in Böblingen Germany 
-      
-      Attending multiple workshops with focus on the IBM software and hardware systems: System zArchitecture, Mainframe management, DB2, WebSphere, Linux on System z, 
-      
-      Transaction-monitor CICS, IBM Virtualization technology, SAP on DB2/z. Practical experience in system administration and programming with System z, WebSphere and COBOL.
 
 # Footer
 footer_show_references: true
