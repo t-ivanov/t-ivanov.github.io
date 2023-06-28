@@ -258,7 +258,7 @@ content:
       - **A big-data layered architecture for analyzing molecular communications systems in blood vessels**
       
         Luca Felicetti, Mauro Femminella, **Todor Ivanov**, Pietro Lio and Gianluca Reali,
-              
+      
         *In Proceedings of the 4th ACM International Conference on Nanoscale Computing and Communication, NANOCOM 2017 , September 27-29, Washington, DC, USA, 2017*
       
       - **BigBench V2: The New and Improved BigBench**
@@ -275,9 +275,64 @@ content:
       
       - **The Heterogeneity Paradigm in Big Data Architectures**
       
-        **Todor Ivanov**, Sead Izberovic, Nikolaos Korfiatis,
+        **Todor Ivanov**, Sead Izberovic and Nikolaos Korfiatis,
       
         *In Managing and Processing Big Data in Cloud Computing, IGI Global Handbook of Research , (pp. 218-245), 2016*
+
+      - **Big Data Benchmark Compendium**
+      
+        **Todor Ivanov**, Tilmann Rabl, Meikel Poess, Anna Queralt, John Poelman, Nicolas Poggi and Jeffrey Buell,
+      
+        *In Proceedings of 7th TPC Technology Conference on Performance Evaluation & Benchmarking, TPCTC 2015 , August 31, 2015 Kohala Coast, Hawai*
+      
+      - **Performance Evaluation of Enterprise Big Data Platforms with HiBench**
+      
+        **Todor Ivanov**, Raik Niemann, Sead Izberovic, Marten Rosselli, Karsten Tolle and Roberto V. Zicari,
+      
+        *In Proceedings of 9th IEEE International Conference on Big Data Science and Engineering, IEEE BigDataSE 2015 , August 20-22, 2015, Helsinki, Finland*
+      
+      - **Evaluating the Energy Efficiency of Data Management Systems**
+      
+        Raik Niemann and **Todor Ivanov**,
+      
+        *In Proceedings of the 4th IEEE/ACM International Workshop on Green and Sustainable Software, GREENS 2015 , May 18, 2015, Florence, Italy*
+      
+      - **Evaluating Hive and Spark SQL with BigBench**
+      
+        **Todor Ivanov**, Max-Georg Beer and Roberto V. Zicari,
+      
+        *In Proceedings of 6th Workshop on Big Data Benchmarking, WBDB 2015 , June 16-17, 2015, Toronto, Canada*
+      
+      - **Evaluating Hadoop Clusters with TPCxHS**
+      
+        **Todor Ivanov** and Sead Izberovic,
+      
+        *October 2015, Frankfurt Big Data Lab, [Technical Report No. 2015-1](http://arxiv.org/abs/1509.03486)*
+      
+      - **Modelling the Performance, Energy Consumption and Efficiency of Data Management Systems**
+      
+        Raik Niemann and **Todor Ivanov**,
+      
+        *In Proceedings of Workshop Big Data, Smart Data and Semantic Technologies, BDSDST 2015 , September 29, Cottbus, Germany, 2015*
+      
+      - **Benchmarking DataStax Enterprise/Cassandra with HiBench**
+      
+        **Todor Ivanov**, Raik Niemann, Sead Izberovic, Marten Rosselli, Karsten Tolle and Roberto V. Zicari,
+      
+        *December 2014, Frankfurt Big Data Lab, [Technical Report No. 2014-2](http://arxiv.org/abs/1411.4044)*
+      
+      - **Performance Evaluation of Virtualized Hadoop Clusters**
+      
+        **Todor Ivanov**, Roberto V. Zicari, Sead Izberovic and Karsten Tolle,
+      
+        *November 2014, Frankfurt Big Data Lab, [Technical Report No. 2014-1](http://arxiv.org/abs/1411.3811)*
+      
+      - **Benchmarking Virtualized Hadoop Clusters**
+      
+        **Todor Ivanov**, Roberto Zicari and Alejandro Buchmann,
+      
+        *In Proc. 5th Workshop on Big Data Benchmarking, WBDB 2014 , August 2014, Potsdam, Germany*
+
 
 
   - title: Activities & Participations
