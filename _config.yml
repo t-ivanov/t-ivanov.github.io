@@ -159,7 +159,7 @@ content:
         quote: >
           Doctorate of Natural Sciences (Dr. rer. nat.) in Computer Science
         description: | # this will include new lines to allow paragraphs
-          [Doctoral thesis: “Classifying, Evaluating and Advancing Big Data Benchmarks”](http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/51157)
+          [Doctoral thesis: “Classifying, Evaluating and Advancing Big Data Benchmarks”](http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/51157){:target="_blank"}
           
           Thesis advisor: Roberto V. Zicari
 
@@ -273,7 +273,7 @@ content:
       
         *In Big Data Optimization: Recent Developments and Challenges, Springer Book , (pp. 17-47), 2016*
       
-      - **[The Heterogeneity Paradigm in Big Data Architectures](https://www.researchgate.net/profile/Nikos-Korfiatis/publication/313188293_The_Heterogeneity_Paradigm_in_Big_Data_Architectures/links/5895af88aca2721f0da724be/The-Heterogeneity-Paradigm-in-Big-Data-Architectures.pdf)**
+      - **[The Heterogeneity Paradigm in Big Data Architectures](https://www.researchgate.net/profile/Nikos-Korfiatis/publication/313188293_The_Heterogeneity_Paradigm_in_Big_Data_Architectures/links/5895af88aca2721f0da724be/The-Heterogeneity-Paradigm-in-Big-Data-Architectures.pdf){:target="_blank"}**
       
         **Todor Ivanov**, Sead Izberovic and Nikolaos Korfiatis,
       
@@ -303,11 +303,11 @@ content:
       
         *In Proceedings of 6th Workshop on Big Data Benchmarking, WBDB 2015 , June 16-17, 2015, Toronto, Canada*
       
-      - **[Evaluating Hadoop Clusters with TPCxHS](https://arxiv.org/pdf/1509.03486.pdf)**
+      - **[Evaluating Hadoop Clusters with TPCxHS](https://arxiv.org/pdf/1509.03486.pdf){:target="_blank"}**
       
         **Todor Ivanov** and Sead Izberovic,
       
-        *October 2015, Frankfurt Big Data Lab, [Technical Report No. 2015-1](http://arxiv.org/abs/1509.03486)*
+        *October 2015, Frankfurt Big Data Lab, [Technical Report No. 2015-1](http://arxiv.org/abs/1509.03486){:target="_blank"}*
       
       - **Modelling the Performance, Energy Consumption and Efficiency of Data Management Systems**
       
@@ -315,17 +315,17 @@ content:
       
         *In Proceedings of Workshop Big Data, Smart Data and Semantic Technologies, BDSDST 2015 , September 29, Cottbus, Germany, 2015*
       
-      - **[Benchmarking DataStax Enterprise/Cassandra with HiBench](https://arxiv.org/pdf/1411.4044.pdf)**
+      - **[Benchmarking DataStax Enterprise/Cassandra with HiBench](https://arxiv.org/pdf/1411.4044.pdf){:target="_blank"}**
       
         **Todor Ivanov**, Raik Niemann, Sead Izberovic, Marten Rosselli, Karsten Tolle and Roberto V. Zicari,
       
-        *December 2014, Frankfurt Big Data Lab, [Technical Report No. 2014-2](http://arxiv.org/abs/1411.4044)*
+        *December 2014, Frankfurt Big Data Lab, [Technical Report No. 2014-2](http://arxiv.org/abs/1411.4044){:target="_blank"}*
       
-      - **[Performance Evaluation of Virtualized Hadoop Clusters](https://arxiv.org/pdf/1411.3811.pdf)**
+      - **[Performance Evaluation of Virtualized Hadoop Clusters](https://arxiv.org/pdf/1411.3811.pdf){:target="_blank"}**
       
         **Todor Ivanov**, Roberto V. Zicari, Sead Izberovic and Karsten Tolle,
       
-        *November 2014, Frankfurt Big Data Lab, [Technical Report No. 2014-1](http://arxiv.org/abs/1411.3811)*
+        *November 2014, Frankfurt Big Data Lab, [Technical Report No. 2014-1](http://arxiv.org/abs/1411.3811){:target="_blank"}*
       
       - **Benchmarking Virtualized Hadoop Clusters**
       
@@ -333,11 +333,11 @@ content:
       
         *In Proc. 5th Workshop on Big Data Benchmarking, WBDB 2014 , August 2014, Potsdam, Germany*
       
-      - **[On the inequality of the 3V’s of Big Data Architectural Paradigms: A case for heterogeneity](https://arxiv.org/pdf/1311.0805.pdf)**
+      - **[On the inequality of the 3V’s of Big Data Architectural Paradigms: A case for heterogeneity](https://arxiv.org/pdf/1311.0805.pdf){:target="_blank"}**
       
         **Todor Ivanov**, Nikolaos Korfiatis and Roberto V. Zicari, 
       
-        *November 2013, Frankfurt Big Data Lab, [Working Paper](http://arxiv.org/abs/1311.0805)*
+        *November 2013, Frankfurt Big Data Lab, [Working Paper](http://arxiv.org/abs/1311.0805){:target="_blank"}*
       
       - **[A hybrid page layout integrating PAX and NSM](https://www.hpl.hp.com/techreports/2012/HPL-2012-240.pdf){:target="_blank"}**
       
