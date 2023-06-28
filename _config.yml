@@ -303,7 +303,7 @@ content:
       
         *In Proceedings of 6th Workshop on Big Data Benchmarking, WBDB 2015 , June 16-17, 2015, Toronto, Canada*
       
-      - **Evaluating Hadoop Clusters with TPCxHS**
+      - **[Evaluating Hadoop Clusters with TPCxHS](https://arxiv.org/pdf/1509.03486.pdf)**
       
         **Todor Ivanov** and Sead Izberovic,
       
@@ -315,13 +315,13 @@ content:
       
         *In Proceedings of Workshop Big Data, Smart Data and Semantic Technologies, BDSDST 2015 , September 29, Cottbus, Germany, 2015*
       
-      - **Benchmarking DataStax Enterprise/Cassandra with HiBench**
+      - **[Benchmarking DataStax Enterprise/Cassandra with HiBench](https://arxiv.org/pdf/1411.4044.pdf)**
       
         **Todor Ivanov**, Raik Niemann, Sead Izberovic, Marten Rosselli, Karsten Tolle and Roberto V. Zicari,
       
         *December 2014, Frankfurt Big Data Lab, [Technical Report No. 2014-2](http://arxiv.org/abs/1411.4044)*
       
-      - **Performance Evaluation of Virtualized Hadoop Clusters**
+      - **[Performance Evaluation of Virtualized Hadoop Clusters](https://arxiv.org/pdf/1411.3811.pdf)**
       
         **Todor Ivanov**, Roberto V. Zicari, Sead Izberovic and Karsten Tolle,
       
@@ -333,7 +333,7 @@ content:
       
         *In Proc. 5th Workshop on Big Data Benchmarking, WBDB 2014 , August 2014, Potsdam, Germany*
       
-      - **On the inequality of the 3V’s of Big Data Architectural Paradigms: A case for heterogeneity**
+      - **[On the inequality of the 3V’s of Big Data Architectural Paradigms: A case for heterogeneity](https://arxiv.org/pdf/1311.0805.pdf)**
       
         **Todor Ivanov**, Nikolaos Korfiatis and Roberto V. Zicari, 
       
