@@ -365,7 +365,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: [ Hands-on Lab – Big Data Technologies ](http://www.bigdata.uni-frankfurt.de/big-data-technologies-ss-2020/){:target="_blank"}
+        title: Hands-on Lab – Big Data Technologies
+        link: (www.bigdata.uni-frankfurt.de/big-data-technologies-ss-2020/){:target="_blank"}
+        link_text: lab webpage
         caption: Summer Semester 2020
         sub_title: Databases and Information Systems
         description: | # this will include new lines to allow paragraphs
