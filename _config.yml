@@ -365,11 +365,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Hands-on Lab – Big Data Technologies
+        title: Summer Semester 2020
         link: (www.bigdata.uni-frankfurt.de/big-data-technologies-ss-2020/){:target="_blank"}
-        link_text: lab webpage
-        caption: Summer Semester 2020
-        sub_title: Databases and Information Systems
+        link_text: Frankfurt Big Data Lab webpage
+        sub_title: Hands-on Lab – Big Data Technologies
         description: | # this will include new lines to allow paragraphs
           The hands-on lab will investigate the features and usability of emerging AI/ML tools focused on Fairness, Bias, Transparency, Explainability and similar Ethical aspects in AI. 
           
