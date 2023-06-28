@@ -133,7 +133,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Super awesome project
         link: github.com/sproogen
         # link_text: Project Website
@@ -219,11 +219,11 @@ content:
       
         *In Proceedings of Benchmarking, Measuring, and Optimizing - Second BenchCouncil International Symposium, Bench 2019, Denver, CO, USA, November 14-16, 2019*
       
-      - **The Influence of Columnar File Formats on SQL-on-Hadoop Engine Performance: A Study on ORC and Parquet**
+      - **[The Influence of Columnar File Formats on SQL-on-Hadoop Engine Performance: A Study on ORC and Parquet](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.5523){:target="_blank"}**
       
         **Todor Ivanov** and Matteo Pergolesi,
       
-        *Journal Concurrency and Computation: Practice and Experience, [Wiley Online Library](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.5523) , e5523, 2019*
+        *Journal Concurrency and Computation: Practice and Experience, Wiley Online Library , e5523, 2019*
       
       - **Relating Big Data Business and Technical Performance Indicators**
       
@@ -360,6 +360,20 @@ content:
          Ilia Petrov, Robert Gottstein, **Todor Ivanov**, Daniel Bausch and Alejandro Buchmann,
       
          *Journal of Information and Data Management, JIDM 2011 , Vol. 2, No. 1, Brazilian Computer Society Special Interest Group on Databases, 2011*
+
+  - title: Teaching Activities # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: [ Hands-on Lab – Big Data Technologies ](http://www.bigdata.uni-frankfurt.de/big-data-technologies-ss-2020/){:target="_blank"}
+        caption: Summer Semester 2020
+        sub_title: Databases and Information Systems
+        description: | # this will include new lines to allow paragraphs
+          The hands-on lab will investigate the features and usability of emerging AI/ML tools focused on Fairness, Bias, Transparency, Explainability and similar Ethical aspects in AI. 
+          
+          The goal is to practically apply the tools in real use cases with data sets either provided by the tool vendors or developed by the teams. Based on their experience the participants will perform an assessment of the tools they use as well as feature comparison. 
+          
+          All outcomes of the investigations will be reported in the final presentation. In particular the tools that we look at are Google What-If, IBM AI Fairness 360, IBM AI Explainability 360, Captum PyTorch and MS InterpretML.
 
 
   - title: Activities & Participations
