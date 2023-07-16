@@ -142,10 +142,11 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
-        title: DataBench Project
+        title: DataBench EU Project
         caption: 2018 - 2020
         link: https://www.databench.eu/
         link_text: DataBench web
+        icon: ![alt text](/images/profile.jpg "Logo Title Text 1")
         description: | # this will include new lines to allow paragraphs
           At the heart of DataBench is the goal to design a benchmarking process helping European organizations developing Big Data Technologies to reach for excellence and constantly improve their performance, by measuring their technology development activity against parameters of high business relevance.
   
@@ -154,7 +155,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
-        title: LEMO Project
+        title: LEMO EU Project
         caption: 2017 - 2019
         link: https://lemo-h2020.eu/
         link_text: LEMO web
@@ -179,9 +180,9 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
-        title: FlashyDB Project
+        title: FlashyDB DFG Project
         caption: 2010-2012
-        link: http://www.dvs.tu-darymstadt.de/research/flashydb/index.html
+        link: http://www.dvs.tu-darmstadt.de/research/flashydb/index.html
         link_text: FlashyDB web
         description: | # this will include new lines to allow paragraphs
             Instrumented and performed multiple experiments with various benchmarks (TPC-B/C/H) to investigate the database performance (MySQL and PostrgeSQL) on Solid State Drives (SSDs). 
