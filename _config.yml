@@ -404,9 +404,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak
-        title: Big Data Technologies - Hands-on Lab
-        sub_title: Summer Semester 2020
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Big Data Technologies
+        sub_title: Summer Semester 2020 - Hands-on Lab
         link: (www.bigdata.uni-frankfurt.de/big-data-technologies-ss-2020/){:target="_blank"}
         link_text: Frankfurt Big Data Lab webpage
         description: | # this will include new lines to allow paragraphs
