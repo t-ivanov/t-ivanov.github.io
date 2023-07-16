@@ -407,7 +407,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
         title: Big Data Technologies
-        sub_title: Summer Semester 2020 - Hands-on Lab
+        caption: Hands-on Lab - Summer 2020/ Winter 2019
         link: (www.bigdata.uni-frankfurt.de/big-data-technologies-ss-2020/){:target="_blank"}
         link_text: Frankfurt Big Data Lab webpage
         description: | # this will include new lines to allow paragraphs
@@ -417,9 +417,33 @@ content:
           
           All outcomes of the investigations will be reported in the final presentation. In particular the tools that we look at are Google What-If, IBM AI Fairness 360, IBM AI Explainability 360, Captum PyTorch and MS InterpretML.
 
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Big Data Technologies
+        caption: Hands-on Lab - Summer Sem. 2019
+        link: (http://www.bigdata.uni-frankfurt.de/big-data-technologies-ss-2019/){:target="_blank"}
+        link_text: Frankfurt Big Data Lab webpage
+        description: | # this will include new lines to allow paragraphs
+          The goal of the course is to provide the students with practical hands-on experience with Big Data, Deep Learning, AI systems and new types of storage platforms and frameworks like Hadoop, Spark, Kubeflow, TensorFlow and Kuberenetes. 
+  
+          Students will have to choose one of the given topics, in teams of two students, and need to be actively participating at the weekly meetings. 
+          
+          The course is divided into two phases. In the first phase the student teams will setup, install and get to know the cloud environment (Google Cloud Platform) and the platform they selected to work with. 
+          
+          In the second phase, the teams will propose a realistic Big Data scenario using real data sets and implement it on the platform they setup in the first phase. 
+  
+          The final implementations and results will be presented (graded) at the end of the course in front of all students.
 
-
-
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: 2nd Big Data and Data Science Workshop
+        caption: 3rd-7th Sept. 2018
+        link: (https://www.rug.nl/cf/onderzoek-gscf/research/research-centres/data-research-centre/){:target="_blank"}
+        link_text: Data Research Centre (DRC) of Campus Fryslân webpage
+        description: | # this will include new lines to allow paragraphs
+            Teaching 5-day hands-on workshop on Big Data and Data Science in Drachten, Netherlands at the Data Research Centre (DRC) of Campus Fryslân.
 
 
 
