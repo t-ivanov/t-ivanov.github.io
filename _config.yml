@@ -50,6 +50,9 @@ additional_links:
 about_profile_image: images/Ivanov.png
 about_content: | # this will include new lines to allow paragraphs
   I am interested in the design and benchmarking of complex distributed software systems or data-intensive applications. In particular, I am interested in software architectures, virtualization, performance optimizations, scalability, effective storage and processing of structured and unstructured data in large systems.
+  :bg:
+  :us:
+  :de:
 
 content:
   - title: Professional Experience # Title for the section
@@ -150,7 +153,7 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-          
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
