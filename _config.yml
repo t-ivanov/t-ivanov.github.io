@@ -86,7 +86,7 @@ content:
         quote: >
           Head of Big Data Innovations & Co-Founder
         description: | # this will include new lines to allow paragraphs
-          SashiDo is a mobile back-end service built for convenience, easiness and simple developing.
+          SashiDo is a mobile back-end as a service built for convenience, easiness and simple developing.
 
       - layout: left
         title: Adastra GmbH
@@ -134,21 +134,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Project name
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
         additional_links:
-          - title: sproogen/modern-resume-theme
+          - title: Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title: Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          Description about the work on/with the project
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
