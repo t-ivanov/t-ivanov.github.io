@@ -151,6 +151,43 @@ content:
   
           DataBench will investigate existing Big Data benchmarking tools and projects, identify the main gaps and provide a robust set of metrics to compare technical results coming from those tools.
 
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: LEMO Project
+        caption: 2017 - 2019
+        link: https://lemo-h2020.eu/
+        link_text: LEMO web
+        description: | # this will include new lines to allow paragraphs
+          Transport researchers and policy makers today face several challenges as they work to build efficient, safe, and sustainable transportation systems. From rising congestion to growing demand for public transit, the travel behaviour and transportation preferences of city dwellers are changing fast. 
+          
+          Leveraging Big Data to Manage Transport Operations (LeMO) project will address these issues by investigating the implications
+          of the utilisation of such big data to enhance the economic sustainability and competitiveness of European transport sector. 
+    
+          The project will study and analyse big data in the European transport domain in particular with respect to five transport dimensions -  mode, sector, technology, policy and evaluation.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: RAIMA Project
+        caption: 2016
+        link: https://raima.com/
+        link_text: RAIMA web
+        description: | # this will include new lines to allow paragraphs
+          Evaluating the latest Raima Database Manager (RDM) 14 using micro-benchmarks and custom benchmarks under Windows and Linux environments. Measuring and comparing the query execution performance of the different RDM modes.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: FlashyDB Project
+        caption: 2010-2012
+        link: http://www.dvs.tu-darymstadt.de/research/flashydb/index.html
+        link_text: FlashyDB web
+        description: | # this will include new lines to allow paragraphs
+            Instrumented and performed multiple experiments with various benchmarks (TPC-B/C/H) to investigate the database performance (MySQL and PostrgeSQL) on Solid State Drives (SSDs). 
+        
+            Worked on the design and implementation of the Hybrid Page Layout (HPL) and its testing framework.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
