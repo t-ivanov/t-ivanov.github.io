@@ -407,8 +407,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
         title: Big Data Technologies
-        caption: Hands-on Lab - Summer 2020/ Winter 2019
-        link: (www.bigdata.uni-frankfurt.de/big-data-technologies-ss-2020/){:target="_blank"}
+        caption: Hands-on Lab - Summer Sem. 2020/ Winter Sem. 2019
+        link: www.bigdata.uni-frankfurt.de/big-data-technologies-ss-2020/
         link_text: Frankfurt Big Data Lab webpage
         description: | # this will include new lines to allow paragraphs
           The hands-on lab will investigate the features and usability of emerging AI/ML tools focused on Fairness, Bias, Transparency, Explainability and similar Ethical aspects in AI. 
@@ -422,7 +422,7 @@ content:
         # other value (or no value) means no border will be displayed
         title: Big Data Technologies
         caption: Hands-on Lab - Summer Sem. 2019
-        link: (http://www.bigdata.uni-frankfurt.de/big-data-technologies-ss-2019/){:target="_blank"}
+        link: http://www.bigdata.uni-frankfurt.de/big-data-technologies-ss-2019/
         link_text: Frankfurt Big Data Lab webpage
         description: | # this will include new lines to allow paragraphs
           The goal of the course is to provide the students with practical hands-on experience with Big Data, Deep Learning, AI systems and new types of storage platforms and frameworks like Hadoop, Spark, Kubeflow, TensorFlow and Kuberenetes. 
@@ -439,11 +439,23 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
         title: 2nd Big Data and Data Science Workshop
-        caption: 3rd-7th Sept. 2018
-        link: (https://www.rug.nl/cf/onderzoek-gscf/research/research-centres/data-research-centre/){:target="_blank"}
+        caption: 3rd - 7th September 2018
+        link: https://www.rug.nl/cf/onderzoek-gscf/research/research-centres/data-research-centre/
         link_text: Data Research Centre (DRC) of Campus Fryslân webpage
         description: | # this will include new lines to allow paragraphs
             Teaching 5-day hands-on workshop on Big Data and Data Science in Drachten, Netherlands at the Data Research Centre (DRC) of Campus Fryslân.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Data Challenge 2018
+        caption: Summer Sem. 2018
+        link: http://www.bigdata.uni-frankfurt.de/web-business-data-challenges-ss-2018/
+        link_text: Frankfurt Big Data Lab webpage
+        description: | # this will include new lines to allow paragraphs
+          Supervisor for the Deutsche Bahn data challenges in “Smart Cities, Smart Life” and the Procter & Gamble (P&G) data challenges in “Smart Logistics, Smart Supply Chain”.
+
+
 
 
 
