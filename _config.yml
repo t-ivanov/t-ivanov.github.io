@@ -51,7 +51,11 @@ about_profile_image: images/Ivanov.png
 about_content: | # this will include new lines to allow paragraphs
   I am interested in the design and benchmarking of complex distributed software systems or data-intensive applications. In particular, I am interested in software architectures, virtualization, performance optimizations, scalability, effective storage and processing of structured and unstructured data in large systems.
   
-  🇧🇬 - native  🇺🇸 - proficient  🇩🇪 - advanced
+  🇧🇬 - native  
+  
+  🇺🇸 - fluent 
+  
+  🇩🇪 - fluent
 
 content:
   - title: Professional Experience # Title for the section
@@ -138,20 +142,14 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title: Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title: Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
+        title: DataBench Project
+        caption: 2018 - 2020
+        link: https://www.databench.eu/
+        link_text: DataBench web
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          At the heart of DataBench is the goal to design a benchmarking process helping European organizations developing Big Data Technologies to reach for excellence and constantly improve their performance, by measuring their technology development activity against parameters of high business relevance.
+  
+          DataBench will investigate existing Big Data benchmarking tools and projects, identify the main gaps and provide a robust set of metrics to compare technical results coming from those tools.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
