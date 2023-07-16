@@ -407,7 +407,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
         title: Big Data Technologies
-        caption: Hands-on Lab - Summer Sem. 2020/ Winter Sem. 2019
+        caption: Hands-on Lab Summer Semester 2020 and Winter Semester 2019
         link: www.bigdata.uni-frankfurt.de/big-data-technologies-ss-2020/
         link_text: Frankfurt Big Data Lab webpage
         description: | # this will include new lines to allow paragraphs
@@ -421,7 +421,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
         title: Big Data Technologies
-        caption: Hands-on Lab - Summer Sem. 2019
+        caption: Hands-on Lab Summer Semester 2019
         link: http://www.bigdata.uni-frankfurt.de/big-data-technologies-ss-2019/
         link_text: Frankfurt Big Data Lab webpage
         description: | # this will include new lines to allow paragraphs
@@ -449,14 +449,51 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
         title: Data Challenge 2018
-        caption: Summer Sem. 2018
+        caption: Summer Semester 2018
         link: http://www.bigdata.uni-frankfurt.de/web-business-data-challenges-ss-2018/
         link_text: Frankfurt Big Data Lab webpage
         description: | # this will include new lines to allow paragraphs
           Supervisor for the Deutsche Bahn data challenges in “Smart Cities, Smart Life” and the Procter & Gamble (P&G) data challenges in “Smart Logistics, Smart Supply Chain”.
 
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Big Data and Data Science 2018
+        caption: Hands-on Lab Winter Semester 2017
+        link: http://www.bigdata.uni-frankfurt.de/big-data-technologies-ws-2017/
+        link_text: Frankfurt Big Data Lab webpage
+        description: | # this will include new lines to allow paragraphs
+          Focus on applying Big Data technologies in practice or stress testing them through benchmarks.
 
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: 1st Big Data and Data Science Workshop
+        caption: 25th - 28th September 2017
+        link: https://www.rug.nl/cf/onderzoek-gscf/research/research-centres/data-research-centre/
+        link_text: Data Research Centre (DRC) of Campus Fryslân webpage
+        description: | # this will include new lines to allow paragraphs
+          Teaching 4-day hands-on workshop on Big Data and Data Science at the Data Research Center Campus Fryslân, Leeuwarden, Netherlands at the Data Research Centre (DRC) of Campus Fryslân.
 
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Data Science Tools Course at the University of Perugia
+        caption: 20th - 30th March 2017
+        description: | # this will include new lines to allow paragraphs
+          Invited to teach a two weeks hands-on course on Data Science Tools (8CPs) as part of the new Master in Data Science at the University Perugia, Italy. The Master Course is composed of a mix of short lectures and practical hands-on labs in the following topics:
+            
+            – Introduction to Hadoop and the Hadoop Ecosystem: HDFS, YARN and MapReduce
+            
+            – Data Movement with Apache Sqoop and Apache Flume
+            
+            – Managing Data with Impala and Hive
+            
+            – Data Processing with Spark
+            
+            – Introduction to Spark MLlib and Spark SQL
+            
+            – Introduction to NoSQL and MongoDB
 
 
 
