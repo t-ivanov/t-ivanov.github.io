@@ -146,7 +146,6 @@ content:
         caption: 2018 - 2020
         link: https://www.databench.eu/
         link_text: DataBench web
-        icon: ![alt text](/images/profile.jpg "Logo Title Text 1")
         description: | # this will include new lines to allow paragraphs
           At the heart of DataBench is the goal to design a benchmarking process helping European organizations developing Big Data Technologies to reach for excellence and constantly improve their performance, by measuring their technology development activity against parameters of high business relevance.
   
@@ -405,16 +404,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Summer Semester 2020
+        border: weak
+        title: Big Data Technologies - Hands-on Lab
+        sub_title: Summer Semester 2020
         link: (www.bigdata.uni-frankfurt.de/big-data-technologies-ss-2020/){:target="_blank"}
         link_text: Frankfurt Big Data Lab webpage
-        sub_title: Hands-on Lab – Big Data Technologies
         description: | # this will include new lines to allow paragraphs
           The hands-on lab will investigate the features and usability of emerging AI/ML tools focused on Fairness, Bias, Transparency, Explainability and similar Ethical aspects in AI. 
           
           The goal is to practically apply the tools in real use cases with data sets either provided by the tool vendors or developed by the teams. Based on their experience the participants will perform an assessment of the tools they use as well as feature comparison. 
           
           All outcomes of the investigations will be reported in the final presentation. In particular the tools that we look at are Google What-If, IBM AI Fairness 360, IBM AI Explainability 360, Captum PyTorch and MS InterpretML.
+
+
+
+
+
+
 
 
   - title: Activities & Participations
