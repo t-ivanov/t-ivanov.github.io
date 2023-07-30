@@ -792,32 +792,32 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Big Data and AI Pipeline Framework: Technology Analysis from a Benchmarking Perspective**
+      - **[Big Data and AI Pipeline Framework: Technology Analysis from a Benchmarking Perspective](https://link.springer.com/chapter/10.1007/978-3-030-78307-5_4){:target="_blank"}**
       
         Arne Berre, Aphrodite Tsalgatidou, Chiara Francalanci, **Todor Ivanov**, Tomas Pariente-Lobo,
         Ricardo Ruiz-Saiz, Inna Novalija and Marko Grobelnik,
       
         *In Technologies and Applications for Big Data Value, Springer, Cham , pp. 63–88, 2022*
 
-      - **Z-Inspection: A Process to Assess Trustworthy AI**
+      - **[Z-Inspection: A Process to Assess Trustworthy AI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9380498){:target="_blank"}**
       
         Roberto V. Zicari, John Brodersen, James Brusseau, Boris Düdder, Timo Eichhorn, **Todor Ivanov**, Georgios Kararigas, Pedro Kringen, Melissa McCullough, Florian Möslein, Naveed Mushtaq, Gemma Roig, Norman Stürtz, Karsten Tolle, Jesmin Jahan Tithi, Irmhild van Halem and Magnus Westerlund,
       
         *IEEE Transactions on Technology and Society, 2021, 2, 83-97*
 
-      - **Tutorial on Benchmarking Big Data Analytics Systems**
+      - **[Tutorial on Benchmarking Big Data Analytics Systems](https://www.databench.eu/wp-content/uploads/2020/03/tutorial_on_benchmarking_big_data_analytics_systems.pdf){:target="_blank"}**
       
         **Todor Ivanov** and Rekha Singhal,
       
         *Companion of the 2020 ACM/SPEC International Conference on Performance Engineering, ICPE2020, Edmonton, AB, Canada, April 20-24, 2020*
       
-      - **CoreBigBench: Benchmarking Big Data Core Operations**
+      - **[CoreBigBench: Benchmarking Big Data Core Operations](https://www.databench.eu/wp-content/uploads/2020/08/corebigbench_dbtest_2020.pdf){:target="_blank"}**
       
         **Todor Ivanov**, Ahmad Ghazal, Alain Crolotte, Pekka Kostamaa and Yoseph Ghazal,
       
         *Proceedings of the 8th International Workshop on Testing Database Systems part of SIGMOD 2020, DBTest 2020 , June 19, Portland, Oregon, USA, 2020*
       
-      - **Building the DataBench Workflow and Architecture**
+      - **[Building the DataBench Workflow and Architecture](https://www.databench.eu/wp-content/uploads/2021/03/databench___benchcouncil.pdf){:target="_blank"} & [presentation](https://www.benchcouncil.org/bench19/file/slides/paper10.pdf){:target="_blank"}**
       
         **Todor Ivanov**, Timo Eichhorn, Arne-Jørgen, Tomás Pariente Lobo, Ivan Martinez Rodriguez, Ricardo Ruiz Saiz, Barbara Pernici and Chiara Francalanci,
       
@@ -841,7 +841,7 @@ content:
       
         *In Proceedings of the 7th International Workshop on Testing Database Systems part of SIGMOD 2018, DBTest 2018 , June 15, Houston, TX, USA, 2018*
       
-      - **Analytics Benchmarks**
+      - **[Analytics Benchmarks](https://link.springer.com/referenceworkentry/10.1007/978-3-319-63962-8_113-1){:target="_blank"}**
       
         **Todor Ivanov** and Roberto V. Zicari,
       
