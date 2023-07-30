@@ -148,7 +148,7 @@ content:
         link_text: DataBench web
         description: | # this will include new lines to allow paragraphs
           At the heart of DataBench is the goal to design a benchmarking process helping European organizations developing Big Data Technologies to reach for excellence and constantly improve their performance, by measuring their technology development activity against parameters of high business relevance.
-  
+          
           DataBench will investigate existing Big Data benchmarking tools and projects, identify the main gaps and provide a robust set of metrics to compare technical results coming from those tools.
 
       - layout: left
@@ -163,7 +163,7 @@ content:
           
           Leveraging Big Data to Manage Transport Operations (LeMO) project will address these issues by investigating the implications
           of the utilisation of such big data to enhance the economic sustainability and competitiveness of European transport sector. 
-    
+          
           The project will study and analyse big data in the European transport domain in particular with respect to five transport dimensions -  mode, sector, technology, policy and evaluation.
 
       - layout: left
@@ -184,9 +184,9 @@ content:
         link: http://www.dvs.tu-darmstadt.de/research/flashydb/index.html
         link_text: FlashyDB web
         description: | # this will include new lines to allow paragraphs
-            Instrumented and performed multiple experiments with various benchmarks (TPC-B/C/H) to investigate the database performance (MySQL and PostrgeSQL) on Solid State Drives (SSDs). 
-        
-            Worked on the design and implementation of the Hybrid Page Layout (HPL) and its testing framework.
+          Instrumented and performed multiple experiments with various benchmarks (TPC-B/C/H) to investigate the database performance (MySQL and PostrgeSQL) on Solid State Drives (SSDs). 
+          
+          Worked on the design and implementation of the Hybrid Page Layout (HPL) and its testing framework.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -426,13 +426,13 @@ content:
         link_text: Frankfurt Big Data Lab webpage
         description: | # this will include new lines to allow paragraphs
           The goal of the course is to provide the students with practical hands-on experience with Big Data, Deep Learning, AI systems and new types of storage platforms and frameworks like Hadoop, Spark, Kubeflow, TensorFlow and Kuberenetes. 
-  
+          
           Students will have to choose one of the given topics, in teams of two students, and need to be actively participating at the weekly meetings. 
           
           The course is divided into two phases. In the first phase the student teams will setup, install and get to know the cloud environment (Google Cloud Platform) and the platform they selected to work with. 
           
           In the second phase, the teams will propose a realistic Big Data scenario using real data sets and implement it on the platform they setup in the first phase. 
-  
+          
           The final implementations and results will be presented (graded) at the end of the course in front of all students.
 
       - layout: left
@@ -443,7 +443,7 @@ content:
         link: https://www.rug.nl/cf/onderzoek-gscf/research/research-centres/data-research-centre/
         link_text: Data Research Centre (DRC) of Campus Fryslân webpage
         description: | # this will include new lines to allow paragraphs
-            Teaching 5-day hands-on workshop on Big Data and Data Science in Drachten, Netherlands at the Data Research Centre (DRC) of Campus Fryslân.
+          Teaching 5-day hands-on workshop on Big Data and Data Science in Drachten, Netherlands at the Data Research Centre (DRC) of Campus Fryslân.
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
@@ -482,18 +482,18 @@ content:
         caption: 20th - 30th March 2017
         description: | # this will include new lines to allow paragraphs
           Invited to teach a two weeks hands-on course on Data Science Tools (8CPs) as part of the new Master in Data Science at the University Perugia, Italy. The Master Course is composed of a mix of short lectures and practical hands-on labs in the following topics:
-            
-            – Introduction to Hadoop and the Hadoop Ecosystem: HDFS, YARN and MapReduce
-            
-            – Data Movement with Apache Sqoop and Apache Flume
-            
-            – Managing Data with Impala and Hive
-            
-            – Data Processing with Spark
-            
-            – Introduction to Spark MLlib and Spark SQL
-            
-            – Introduction to NoSQL and MongoDB
+          
+          – Introduction to Hadoop and the Hadoop Ecosystem: HDFS, YARN and MapReduce
+          
+          – Data Movement with Apache Sqoop and Apache Flume
+          
+          – Managing Data with Impala and Hive
+          
+          – Data Processing with Spark
+          
+          – Introduction to Spark MLlib and Spark SQL
+          
+          – Introduction to NoSQL and MongoDB
 
         - layout: left
           border: weak  # Value of `weak` will display a weak border below this item. # Any
@@ -502,8 +502,8 @@ content:
           caption: Hands-on Lab Winter Semester 2016
           link: http://www.bigdata.uni-frankfurt.de/web-business-data-challenges-ws-2016/
           description: | # this will include new lines to allow paragraphs
-            Supervisor for the Deutsche Bahn Data Challenge: Mobility of the future & ING-DiBa Data Challenge: Future of Financial Data
-            
+              Supervisor for the Deutsche Bahn Data Challenge: Mobility of the future & ING-DiBa Data Challenge: Future of Financial Data
+
         - layout: left
           border: weak  # Value of `weak` will display a weak border below this item. # Any
           # other value (or no value) means no border will be displayed
@@ -511,25 +511,25 @@ content:
           caption: Hands-on Lab Summer Semester 2016 and Winter Semester 2015
           link: http://www.bigdata.uni-frankfurt.de/applying-big-data-technologies-ss-2016/
           description: | # this will include new lines to allow paragraphs
-            Focus on applying Big Data technologies in practice or stress testing them through benchmarks.    
+              Focus on applying Big Data technologies in practice or stress testing them through benchmarks.    
 
         - layout: left
           border: weak  # Value of `weak` will display a weak border below this item. # Any
-          # other value (or no value) means no border will be displayed
+            # other value (or no value) means no border will be displayed
           title: Practical Course on Big Data Platforms
           caption: Hands-on Lab Summer Semester 2015
           link: http://www.bigdata.uni-frankfurt.de/principles-e-commerce-ss2015/
           description: | # this will include new lines to allow paragraphs
-            Focus on covering the Hadoop architecture and the Hadoop ecosystem of tools. These technologies are at the foundation of the Big Data movement, and they facilitate scalable management and processing of vast quantities of data.    
+              Focus on covering the Hadoop architecture and the Hadoop ecosystem of tools. These technologies are at the foundation of the Big Data movement, and they facilitate scalable management and processing of vast quantities of data.    
 
         - layout: left
           border: weak  # Value of `weak` will display a weak border below this item. # Any
-          # other value (or no value) means no border will be displayed
+            # other value (or no value) means no border will be displayed
           title: Lecture on Big Data Analytics
           caption: Summer Semester 2014
           link: http://www.bigdata.uni-frankfurt.de/big-data-analytics-course-summer-semester-2014/
           description: | # this will include new lines to allow paragraphs
-            Focus on basic theoretical and practical techniques for extracting information from large datasets and data mining of massive datasets through practical applications in predictive analytics.  
+              Focus on basic theoretical and practical techniques for extracting information from large datasets and data mining of massive datasets through practical applications in predictive analytics.  
 
   - title: Activities & Services
     layout: text
