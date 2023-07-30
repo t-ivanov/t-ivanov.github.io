@@ -483,60 +483,630 @@ content:
         description: | # this will include new lines to allow paragraphs
           Invited to teach a two weeks hands-on course on Data Science Tools (8CPs) as part of the new Master in Data Science at the University Perugia, Italy. The Master Course is composed of a mix of short lectures and practical hands-on labs in the following topics:
           
-          – Introduction to Hadoop and the Hadoop Ecosystem: HDFS, YARN and MapReduce
+          - Introduction to Hadoop and the Hadoop Ecosystem: HDFS, YARN and MapReduce
+
+          - Data Movement with Apache Sqoop and Apache Flume
+
+          - Managing Data with Impala and Hive
+
+          - Data Processing with Spark
+
+          - Introduction to Spark MLlib and Spark SQL
+
+          - Introduction to NoSQL and MongoDB
+
+
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Data Challenges 2016
+        caption: Hands-on Lab Winter Semester 2016
+        link: http://www.bigdata.uni-frankfurt.de/web-business-data-challenges-ws-2016/
+        link_text: Frankfurt Big Data Lab webpage
+        description: | # this will include new lines to allow paragraphs
+          Supervisor for the Deutsche Bahn Data Challenge: Mobility of the future & ING-DiBa Data Challenge: Future of Financial Data
+
+
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Applying Big Data Technologies
+        caption: Hands-on Lab Summer Semester 2016 and Winter Semester 2015
+        link: http://www.bigdata.uni-frankfurt.de/applying-big-data-technologies-ss-2016/
+        link_text: Frankfurt Big Data Lab webpage
+        description: | # this will include new lines to allow paragraphs
+          Focus on applying Big Data technologies in practice or stress testing them through benchmarks.    
+
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Practical Course on Big Data Platforms
+        caption: Hands-on Lab Summer Semester 2015
+        link: http://www.bigdata.uni-frankfurt.de/principles-e-commerce-ss2015/
+        link_text: Frankfurt Big Data Lab webpage
+        description: | # this will include new lines to allow paragraphs
+          Focus on covering the Hadoop architecture and the Hadoop ecosystem of tools. These technologies are at the foundation of the Big Data movement, and they facilitate scalable management and processing of vast quantities of data.    
+
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Lecture on Big Data Analytics
+        caption: Summer Semester 2014
+        link: http://www.bigdata.uni-frankfurt.de/big-data-analytics-course-summer-semester-2014/
+        link_text: Frankfurt Big Data Lab webpage
+        description: | # this will include new lines to allow paragraphs
+          Focus on basic theoretical and practical techniques for extracting information from large datasets and data mining of massive datasets through practical applications in predictive analytics.  
+
+
+  - title: Activities & Services
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - 2021 IEEE BigData, [Program Committee (PC)](https://bigdataieee.org/BigData2021/ProgramCommittee.html)
+      - 2016 - 2019 - **Vice Chair** of the [RG Big Data Working Group as part of SPEC Research Group](https://research.spec.org/working-groups/rg-big-data/meetings-and-presentations/)
+      - 19 Aug. - 1 Sept. 2017 - **Participant** in the 3rd International Summer School for Big Data and [VLDB 2017](https://www.vldb.org/2017/) in Munich, Germany
+      - Aug. - Sept. 2011 - **Participant** in the IBM zSummer University in Böblingen, Germany 
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Todor V. Ivanov
+title: Big Data Expert and Researcher
+email: todor.v.ivanov@gmail.com
+website: https://t-ivanov.github.io/
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+#twitter_username: facespics
+github_username: t-ivanov
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+#instagram_username: jameswgrant
+linkedin_username: tivanov
+# xing_username: jekyll
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+#googleplus_username: https://scholar.google.com/citations?user=cPnoKVEAAAAJ&hl=en
+googlescholar_username: cPnoKVEAAAAJ&hl
+orcid_username: 0000-0002-9679-8947
+
+# Additional icon links
+additional_links:
+  - title: dblp.org
+    icon: fas fa-globe
+    url: https://dblp.org/pid/49/10021.html
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/Ivanov.png
+about_content: | # this will include new lines to allow paragraphs
+  I am interested in the design and benchmarking of complex distributed software systems or data-intensive applications. In particular, I am interested in software architectures, virtualization, performance optimizations, scalability, effective storage and processing of structured and unstructured data in large systems.
+  
+  🇧🇬 - native  
+  
+  🇺🇸 - fluent 
+  
+  🇩🇪 - fluent
+
+content:
+  - title: Professional Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: DXC Technologies
+        link: www.dxc.com
+        # link_text: boringcompany.com
+        sub_title: Big Data & Analytics
+        caption: July 2020 - Present
+        quote: >
+          Senior Big Data Engineer & Tech Lead
+        description: | # this will include new lines to allow paragraphs
+          Specification, development and implementation of data and analytics intensive applications for various customer projects using Big Data technologies (Spark, Hadoop, MapR, Hive, Solar, Airflow and more).
+
+      - layout: left
+        title: Frankfurt Big Data Lab
+        link: www.bigdata.uni-frankfurt.de
+        # link_text: boringcompany.com
+        sub_title: Goethe University Frankfurt
+        caption: July 2014 - June 2020
+        quote: >
+          Senior Researcher & Lab CTO
+        description: | # this will include new lines to allow paragraphs
+          Performance and system analysis of Big Data technologies using various Big Data benchmarks (HiBench, TPCx-HS & BigBench) as well as developing and improving Big Data benchmarks.
+
+      - layout: left
+        title: SashiDo
+        link: www.sashido.io
+        # link_text: boringcompany.com
+        #sub_title:
+        caption: Feb. 2016 - Feb. 2018
+        quote: >
+          Head of Big Data Innovations & Co-Founder
+        description: | # this will include new lines to allow paragraphs
+          SashiDo is a mobile back-end as a service built for convenience, easiness and simple developing.
+
+      - layout: left
+        title: Adastra GmbH
+        link: de.adastragrp.com/de/
+        link_text: adastra.de
+        sub_title: Frankfurt am Main
+        caption: Jan. 2013 - Apr. 2014
+        quote: >
+          Junior IT Consultant
+        description: | # this will include new lines to allow paragraphs
+          Involved in multiple internal projects using: VMware ESXi, IBM Cognos, MS SharePoint, MS SQL Server, Oracle, Informatica and more. 
           
-          – Data Movement with Apache Sqoop and Apache Flume
+          Development of Data mart and automated UC4 Flowchart Documentation for MS Visio using XSLT transformation for Commerzbank AG, Frankfurt.
+
+      - layout: left
+        title: Databases and Distributed Systems
+        link: www.dvs.tu-darmstadt.de/research/flashydb/index.html
+        link_text: DDS at TU Darmstadt
+        sub_title: Technical University of Darmstadt
+        caption: Oct. 2010 - Sept. 2012
+        quote: >
+          Research Assistant
+        description: | # this will include new lines to allow paragraphs
+          Instrumented and performed multiple experiments with various benchmarks (TPC-B/C/H) to investigate the database performance (MySQL and PostrgeSQL) on Solid State Drives (SSDs). 
           
-          – Managing Data with Impala and Hive
+          Worked on the design and implementation of the Hybrid Page Layout (HPL) and its testing framework.
+
+      - layout: left
+        title: Airbiz GmbH
+        #link:
+        # link_text: boringcompany.com
+        sub_title: Bischofsheim, Hessen
+        caption: July 2004 - Sept. 2010
+        quote: >
+          Senior Software Developer
+        description: | # this will include new lines to allow paragraphs
+          Involved in the development and implementation of fully-featured FIDS (Flight Information Display System) product FlightVision installed on multiple international airports; 
           
-          – Data Processing with Spark
+          Development of customized software modules and extensions; Integration in existing airport information systems. 
           
-          – Introduction to Spark MLlib and Spark SQL
+          Completed projects and setup production systems on multiple airports: Fraport Frankfurt and Frankfurt-Hahn Airports in Germany, Baghdad and Basra Airports in Iraq.              
+
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: DataBench EU Project
+        caption: 2018 - 2020
+        link: https://www.databench.eu/
+        link_text: DataBench web
+        description: | # this will include new lines to allow paragraphs
+          At the heart of DataBench is the goal to design a benchmarking process helping European organizations developing Big Data Technologies to reach for excellence and constantly improve their performance, by measuring their technology development activity against parameters of high business relevance.
           
-          – Introduction to NoSQL and MongoDB
+          DataBench will investigate existing Big Data benchmarking tools and projects, identify the main gaps and provide a robust set of metrics to compare technical results coming from those tools.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: LEMO EU Project
+        caption: 2017 - 2019
+        link: https://lemo-h2020.eu/
+        link_text: LEMO web
+        description: | # this will include new lines to allow paragraphs
+          Transport researchers and policy makers today face several challenges as they work to build efficient, safe, and sustainable transportation systems. From rising congestion to growing demand for public transit, the travel behaviour and transportation preferences of city dwellers are changing fast. 
+          
+          Leveraging Big Data to Manage Transport Operations (LeMO) project will address these issues by investigating the implications
+          of the utilisation of such big data to enhance the economic sustainability and competitiveness of European transport sector. 
+          
+          The project will study and analyse big data in the European transport domain in particular with respect to five transport dimensions -  mode, sector, technology, policy and evaluation.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: RAIMA Project
+        caption: 2016
+        link: https://raima.com/
+        link_text: RAIMA web
+        description: | # this will include new lines to allow paragraphs
+          Evaluating the latest Raima Database Manager (RDM) 14 using micro-benchmarks and custom benchmarks under Windows and Linux environments. Measuring and comparing the query execution performance of the different RDM modes.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: FlashyDB DFG Project
+        caption: 2010-2012
+        link: http://www.dvs.tu-darmstadt.de/research/flashydb/index.html
+        link_text: FlashyDB web
+        description: | # this will include new lines to allow paragraphs
+          Instrumented and performed multiple experiments with various benchmarks (TPC-B/C/H) to investigate the database performance (MySQL and PostrgeSQL) on Solid State Drives (SSDs). 
+          
+          Worked on the design and implementation of the Hybrid Page Layout (HPL) and its testing framework.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Goethe University Frankfurt
+        caption: 2014 - 2019
+        sub_title: Databases and Information Systems
+        quote: >
+          Doctorate of Natural Sciences (Dr. rer. nat.) in Computer Science
+        description: | # this will include new lines to allow paragraphs
+          [Doctoral thesis: “Classifying, Evaluating and Advancing Big Data Benchmarks”](http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/51157){:target="_blank"}
+          
+          Thesis advisor: Roberto V. Zicari
+
+      - layout: left
+        title: Technical University of Darmstadt
+        caption: 2011 - 2014
+        sub_title: Department of Computer Science
+        quote: >
+          Master of Science in Distributed Software Systems
+        description: | # this will include new lines to allow paragraphs
+          Master thesis: Benchmarking Hadoop Clusters: An Empirical Study
+          
+          Thesis advisors: Alejandro Buchmann (TU Darmstadt) and Roberto V. Zicari (Goethe University Frankfurt)
+
+      - layout: left
+        title: Technical University of Darmstadt
+        caption: 2003 - 2009
+        sub_title: Department of Computational Engineering
+        quote: >
+          Bachelor of Science in Computational Engineering
+        description: | # this will include new lines to allow paragraphs
+          Bachelor thesis: Analysis of Database Performance in Virtual Environments
+          
+          Thesis advisors: Alejandro Buchmann (TU Darmstadt) and Ilia Petrov (TU Darmstadt)
+
+  - title: Publications
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - **Big Data and AI Pipeline Framework: Technology Analysis from a Benchmarking Perspective**
+      
+        Arne Berre, Aphrodite Tsalgatidou, Chiara Francalanci, **Todor Ivanov**, Tomas Pariente-Lobo,
+        Ricardo Ruiz-Saiz, Inna Novalija and Marko Grobelnik,
+      
+        *In Technologies and Applications for Big Data Value, Springer, Cham , pp. 63–88, 2022*
+
+      - **Z-Inspection: A Process to Assess Trustworthy AI**
+      
+        Roberto V. Zicari, John Brodersen, James Brusseau, Boris Düdder, Timo Eichhorn, **Todor Ivanov**, Georgios Kararigas, Pedro Kringen, Melissa McCullough, Florian Möslein, Naveed Mushtaq, Gemma Roig, Norman Stürtz, Karsten Tolle, Jesmin Jahan Tithi, Irmhild van Halem and Magnus Westerlund,
+      
+        *IEEE Transactions on Technology and Society, 2021, 2, 83-97*
+
+      - **Tutorial on Benchmarking Big Data Analytics Systems**
+      
+        **Todor Ivanov** and Rekha Singhal,
+      
+        *Companion of the 2020 ACM/SPEC International Conference on Performance Engineering, ICPE2020, Edmonton, AB, Canada, April 20-24, 2020*
+      
+      - **CoreBigBench: Benchmarking Big Data Core Operations**
+      
+        **Todor Ivanov**, Ahmad Ghazal, Alain Crolotte, Pekka Kostamaa and Yoseph Ghazal,
+      
+        *Proceedings of the 8th International Workshop on Testing Database Systems part of SIGMOD 2020, DBTest 2020 , June 19, Portland, Oregon, USA, 2020*
+      
+      - **Building the DataBench Workflow and Architecture**
+      
+        **Todor Ivanov**, Timo Eichhorn, Arne-Jørgen, Tomás Pariente Lobo, Ivan Martinez Rodriguez, Ricardo Ruiz Saiz, Barbara Pernici and Chiara Francalanci,
+      
+        *In Proceedings of Benchmarking, Measuring, and Optimizing - Second BenchCouncil International Symposium, Bench 2019, Denver, CO, USA, November 14-16, 2019*
+      
+      - **[The Influence of Columnar File Formats on SQL-on-Hadoop Engine Performance: A Study on ORC and Parquet](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.5523){:target="_blank"}**
+      
+        **Todor Ivanov** and Matteo Pergolesi,
+      
+        *Journal Concurrency and Computation: Practice and Experience, Wiley Online Library , e5523, 2019*
+      
+      - **Relating Big Data Business and Technical Performance Indicators**
+      
+        Barbara Pernici, Chiara Francalanci, Angela Geronazzo, Lucia Polidori, Stefano Ray, Leonardo Riva, Arne Jørgen Berre and **Todor Ivanov**,
+      
+        *Conference of the Italian Chapter of AIS, itAIS 2018, October 12-13, Pavia, Italy, 2018*
+      
+      - **Adding Velocity to BigBench**
+      
+        **Todor Ivanov**, Patrick Bedué, Ahmad Ghazal and Roberto V. Zicari,
+      
+        *In Proceedings of the 7th International Workshop on Testing Database Systems part of SIGMOD 2018, DBTest 2018 , June 15, Houston, TX, USA, 2018*
+      
+      - **Analytics Benchmarks**
+      
+        **Todor Ivanov** and Roberto V. Zicari,
+      
+        *In Encyclopedia of Big Data Technologies. Ed. by Sherif Sakr and Albert Zomaya, Springer International Publishing , pp. 1–10, 2018*
+      
+      - **Exploratory Analysis of Spark Structured Streaming**
+      
+        **Todor Ivanov** and Jason Taafe,
+      
+        *In Proceedings of the 4th International Workshop on Performance Analysis of Big data Systems, PABS 2018 , April 9th, Berlin, Germany, 2018*
+      
+      - **ABench: Big Data Architecture Stack Benchmark**
+      
+        **Todor Ivanov** and Rekha Singhal,
+      
+        *In Proceedings of the 9th ACM/SPEC International Conference on Performance Engineering, ICPE 2018 , April 9-13, Berlin, Germany, 2018*
+      
+      - **A big-data layered architecture for analyzing molecular communications systems in blood vessels**
+      
+        Luca Felicetti, Mauro Femminella, **Todor Ivanov**, Pietro Lio and Gianluca Reali,
+      
+        *In Proceedings of the 4th ACM International Conference on Nanoscale Computing and Communication, NANOCOM 2017 , September 27-29, Washington, DC, USA, 2017*
+      
+      - **BigBench V2: The New and Improved BigBench**
+      
+        Ahmad Ghazal, **Todor Ivanov**, Pekka Kostamaa, Alain Crolotte, Ryan Voong, Mohammed Al-Kateb, Waleed Ghazal and Roberto Zicari,
+      
+        *In Proceedings of 33rd IEEE International Conference on Data Engineering, ICDE 2017 , April 19-22, San Diego, California, USA, 2017*
+      
+      - **Setting up a Big Data Project: Challenges, Opportunities, Technologies and Optimization**
+      
+        Roberto V. Zicari, Marten Rosselli, **Todor Ivanov**, Nikolaos Korfiatis, Karsten Tolle, Raik Niemann and Christoph Reichenbach,
+      
+        *In Big Data Optimization: Recent Developments and Challenges, Springer Book , (pp. 17-47), 2016*
+      
+      - **[The Heterogeneity Paradigm in Big Data Architectures](https://www.researchgate.net/profile/Nikos-Korfiatis/publication/313188293_The_Heterogeneity_Paradigm_in_Big_Data_Architectures/links/5895af88aca2721f0da724be/The-Heterogeneity-Paradigm-in-Big-Data-Architectures.pdf){:target="_blank"}**
+      
+        **Todor Ivanov**, Sead Izberovic and Nikolaos Korfiatis,
+      
+        *In Managing and Processing Big Data in Cloud Computing, IGI Global Handbook of Research , (pp. 218-245), 2016*
+
+      - **Big Data Benchmark Compendium**
+      
+        **Todor Ivanov**, Tilmann Rabl, Meikel Poess, Anna Queralt, John Poelman, Nicolas Poggi and Jeffrey Buell,
+      
+        *In Proceedings of 7th TPC Technology Conference on Performance Evaluation & Benchmarking, TPCTC 2015 , August 31, 2015 Kohala Coast, Hawai*
+      
+      - **Performance Evaluation of Enterprise Big Data Platforms with HiBench**
+      
+        **Todor Ivanov**, Raik Niemann, Sead Izberovic, Marten Rosselli, Karsten Tolle and Roberto V. Zicari,
+      
+        *In Proceedings of 9th IEEE International Conference on Big Data Science and Engineering, IEEE BigDataSE 2015 , August 20-22, 2015, Helsinki, Finland*
+      
+      - **Evaluating the Energy Efficiency of Data Management Systems**
+      
+        Raik Niemann and **Todor Ivanov**,
+      
+        *In Proceedings of the 4th IEEE/ACM International Workshop on Green and Sustainable Software, GREENS 2015 , May 18, 2015, Florence, Italy*
+      
+      - **Evaluating Hive and Spark SQL with BigBench**
+      
+        **Todor Ivanov**, Max-Georg Beer and Roberto V. Zicari,
+      
+        *In Proceedings of 6th Workshop on Big Data Benchmarking, WBDB 2015 , June 16-17, 2015, Toronto, Canada*
+      
+      - **[Evaluating Hadoop Clusters with TPCxHS](https://arxiv.org/pdf/1509.03486.pdf){:target="_blank"}**
+      
+        **Todor Ivanov** and Sead Izberovic,
+      
+        *October 2015, Frankfurt Big Data Lab, [Technical Report No. 2015-1](http://arxiv.org/abs/1509.03486){:target="_blank"}*
+      
+      - **Modelling the Performance, Energy Consumption and Efficiency of Data Management Systems**
+      
+        Raik Niemann and **Todor Ivanov**,
+      
+        *In Proceedings of Workshop Big Data, Smart Data and Semantic Technologies, BDSDST 2015 , September 29, Cottbus, Germany, 2015*
+      
+      - **[Benchmarking DataStax Enterprise/Cassandra with HiBench](https://arxiv.org/pdf/1411.4044.pdf){:target="_blank"}**
+      
+        **Todor Ivanov**, Raik Niemann, Sead Izberovic, Marten Rosselli, Karsten Tolle and Roberto V. Zicari,
+      
+        *December 2014, Frankfurt Big Data Lab, [Technical Report No. 2014-2](http://arxiv.org/abs/1411.4044){:target="_blank"}*
+      
+      - **[Performance Evaluation of Virtualized Hadoop Clusters](https://arxiv.org/pdf/1411.3811.pdf){:target="_blank"}**
+      
+        **Todor Ivanov**, Roberto V. Zicari, Sead Izberovic and Karsten Tolle,
+      
+        *November 2014, Frankfurt Big Data Lab, [Technical Report No. 2014-1](http://arxiv.org/abs/1411.3811){:target="_blank"}*
+      
+      - **Benchmarking Virtualized Hadoop Clusters**
+      
+        **Todor Ivanov**, Roberto Zicari and Alejandro Buchmann,
+      
+        *In Proc. 5th Workshop on Big Data Benchmarking, WBDB 2014 , August 2014, Potsdam, Germany*
+      
+      - **[On the inequality of the 3V’s of Big Data Architectural Paradigms: A case for heterogeneity](https://arxiv.org/pdf/1311.0805.pdf){:target="_blank"}**
+      
+        **Todor Ivanov**, Nikolaos Korfiatis and Roberto V. Zicari, 
+      
+        *November 2013, Frankfurt Big Data Lab, [Working Paper](http://arxiv.org/abs/1311.0805){:target="_blank"}*
+      
+      - **[A hybrid page layout integrating PAX and NSM](https://www.hpl.hp.com/techreports/2012/HPL-2012-240.pdf){:target="_blank"}**
+      
+        Goetz Graefe, Ilia Petrov, **Todor Ivanov** and Veselin Marinov,
+      
+        *In Proceedings of 17th International Database Engineering and Applications Symposium, IDEAS 2013 , Barcelona, Spain, ACM, 2013*
+      
+       - **Page Format Implementation and Testing Framework for the Hybrid Page Layout**
+      
+         **Todor Ivanov**, *December 2012, Technical Report*
+      
+       - **A Survey on Database Performance in Virtualized Cloud Environments**
+      
+         **Todor Ivanov**, Ilia Petrov and Alejandro Buchmann,
+      
+         *International Journal of Data Warehousing and Mining, IJDWM 2012 , 8(3), 1-26, July - September 2012*
+      
+       - **Page Size Selection for OLTP Databases on SSD RAID Storage**
+      
+         Ilia Petrov, Robert Gottstein, **Todor Ivanov**, Daniel Bausch and Alejandro Buchmann,
+      
+         *Journal of Information and Data Management, JIDM 2011 , Vol. 2, No. 1, Brazilian Computer Society Special Interest Group on Databases, 2011*
+
+  - title: Teaching Activities # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Big Data Technologies
+        caption: Hands-on Lab Summer Semester 2020 and Winter Semester 2019
+        link: www.bigdata.uni-frankfurt.de/big-data-technologies-ss-2020/
+        link_text: Frankfurt Big Data Lab webpage
+        description: | # this will include new lines to allow paragraphs
+          The hands-on lab will investigate the features and usability of emerging AI/ML tools focused on Fairness, Bias, Transparency, Explainability and similar Ethical aspects in AI. 
+          
+          The goal is to practically apply the tools in real use cases with data sets either provided by the tool vendors or developed by the teams. Based on their experience the participants will perform an assessment of the tools they use as well as feature comparison. 
+          
+          All outcomes of the investigations will be reported in the final presentation. In particular the tools that we look at are Google What-If, IBM AI Fairness 360, IBM AI Explainability 360, Captum PyTorch and MS InterpretML.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Big Data Technologies
+        caption: Hands-on Lab Summer Semester 2019
+        link: http://www.bigdata.uni-frankfurt.de/big-data-technologies-ss-2019/
+        link_text: Frankfurt Big Data Lab webpage
+        description: | # this will include new lines to allow paragraphs
+          The goal of the course is to provide the students with practical hands-on experience with Big Data, Deep Learning, AI systems and new types of storage platforms and frameworks like Hadoop, Spark, Kubeflow, TensorFlow and Kuberenetes. 
+          
+          Students will have to choose one of the given topics, in teams of two students, and need to be actively participating at the weekly meetings. 
+          
+          The course is divided into two phases. In the first phase the student teams will setup, install and get to know the cloud environment (Google Cloud Platform) and the platform they selected to work with. 
+          
+          In the second phase, the teams will propose a realistic Big Data scenario using real data sets and implement it on the platform they setup in the first phase. 
+          
+          The final implementations and results will be presented (graded) at the end of the course in front of all students.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: 2nd Big Data and Data Science Workshop
+        caption: 3rd - 7th September 2018
+        link: https://www.rug.nl/cf/onderzoek-gscf/research/research-centres/data-research-centre/
+        link_text: Data Research Centre (DRC) of Campus Fryslân webpage
+        description: | # this will include new lines to allow paragraphs
+          Teaching 5-day hands-on workshop on Big Data and Data Science in Drachten, Netherlands at the Data Research Centre (DRC) of Campus Fryslân.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Data Challenge 2018
+        caption: Summer Semester 2018
+        link: http://www.bigdata.uni-frankfurt.de/web-business-data-challenges-ss-2018/
+        link_text: Frankfurt Big Data Lab webpage
+        description: | # this will include new lines to allow paragraphs
+          Supervisor for the Deutsche Bahn data challenges in “Smart Cities, Smart Life” and the Procter & Gamble (P&G) data challenges in “Smart Logistics, Smart Supply Chain”.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Big Data and Data Science 2017
+        caption: Hands-on Lab Winter Semester 2017
+        link: http://www.bigdata.uni-frankfurt.de/big-data-technologies-ws-2017/
+        link_text: Frankfurt Big Data Lab webpage
+        description: | # this will include new lines to allow paragraphs
+          Focus on applying Big Data technologies in practice or stress testing them through benchmarks.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: 1st Big Data and Data Science Workshop
+        caption: 25th - 28th September 2017
+        link: https://www.rug.nl/cf/onderzoek-gscf/research/research-centres/data-research-centre/
+        link_text: Data Research Centre (DRC) of Campus Fryslân webpage
+        description: | # this will include new lines to allow paragraphs
+          Teaching 4-day hands-on workshop on Big Data and Data Science at the Data Research Center Campus Fryslân, Leeuwarden, Netherlands at the Data Research Centre (DRC) of Campus Fryslân.
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Data Science Tools Course at the University of Perugia
+        caption: 20th - 30th March 2017
+        description: | # this will include new lines to allow paragraphs
+          Invited to teach a two weeks hands-on course on Data Science Tools (8CPs) as part of the new Master in Data Science at the University Perugia, Italy. The Master Course is composed of a mix of short lectures and practical hands-on labs in the following topics:
+          
+          - Introduction to Hadoop and the Hadoop Ecosystem: HDFS, YARN and MapReduce
+          
+          - Data Movement with Apache Sqoop and Apache Flume
+          
+          - Managing Data with Impala and Hive
+          
+          - Data Processing with Spark
+          
+          - Introduction to Spark MLlib and Spark SQL
+          
+          - Introduction to NoSQL and MongoDB
+          
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Data Challenges 2016
+        caption: Hands-on Lab Winter Semester 2016
+        link: http://www.bigdata.uni-frankfurt.de/web-business-data-challenges-ws-2016/
+        link_text: Frankfurt Big Data Lab webpage
+        description: | # this will include new lines to allow paragraphs
+          Supervisor for the Deutsche Bahn Data Challenge: Mobility of the future & ING-DiBa Data Challenge: Future of Financial Data
           
           
 
-        - layout: left
-          border: weak  # Value of `weak` will display a weak border below this item. # Any
-          # other value (or no value) means no border will be displayed
-          title: Data Challenges 2016
-          caption: Hands-on Lab Winter Semester 2016
-          link: http://www.bigdata.uni-frankfurt.de/web-business-data-challenges-ws-2016/
-          link_text: Frankfurt Big Data Lab webpage
-          description: | # this will include new lines to allow paragraphs
-              Supervisor for the Deutsche Bahn Data Challenge: Mobility of the future & ING-DiBa Data Challenge: Future of Financial Data
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Applying Big Data Technologies
+        caption: Hands-on Lab Summer Semester 2016 and Winter Semester 2015
+        link: http://www.bigdata.uni-frankfurt.de/applying-big-data-technologies-ss-2016/
+        link_text: Frankfurt Big Data Lab webpage
+        description: | # this will include new lines to allow paragraphs
+          Focus on applying Big Data technologies in practice or stress testing them through benchmarks.
+          
+          
 
-        - layout: left
-          border: weak  # Value of `weak` will display a weak border below this item. # Any
-          # other value (or no value) means no border will be displayed
-          title: Applying Big Data Technologies
-          caption: Hands-on Lab Summer Semester 2016 and Winter Semester 2015
-          link: http://www.bigdata.uni-frankfurt.de/applying-big-data-technologies-ss-2016/
-          link_text: Frankfurt Big Data Lab webpage
-          description: | # this will include new lines to allow paragraphs
-              Focus on applying Big Data technologies in practice or stress testing them through benchmarks.    
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Practical Course on Big Data Platforms
+        caption: Hands-on Lab Summer Semester 2015
+        link: http://www.bigdata.uni-frankfurt.de/principles-e-commerce-ss2015/
+        link_text: Frankfurt Big Data Lab webpage
+        description: | # this will include new lines to allow paragraphs
+          Focus on covering the Hadoop architecture and the Hadoop ecosystem of tools. These technologies are at the foundation of the Big Data movement, and they facilitate scalable management and processing of vast quantities of data.    
 
-        - layout: left
-          border: weak  # Value of `weak` will display a weak border below this item. # Any
-            # other value (or no value) means no border will be displayed
-          title: Practical Course on Big Data Platforms
-          caption: Hands-on Lab Summer Semester 2015
-          link: http://www.bigdata.uni-frankfurt.de/principles-e-commerce-ss2015/
-          link_text: Frankfurt Big Data Lab webpage
-          description: | # this will include new lines to allow paragraphs
-              Focus on covering the Hadoop architecture and the Hadoop ecosystem of tools. These technologies are at the foundation of the Big Data movement, and they facilitate scalable management and processing of vast quantities of data.    
 
-        - layout: left
-          border: weak  # Value of `weak` will display a weak border below this item. # Any
-            # other value (or no value) means no border will be displayed
-          title: Lecture on Big Data Analytics
-          caption: Summer Semester 2014
-          link: http://www.bigdata.uni-frankfurt.de/big-data-analytics-course-summer-semester-2014/
-          link_text: Frankfurt Big Data Lab webpage
-          description: | # this will include new lines to allow paragraphs
-              Focus on basic theoretical and practical techniques for extracting information from large datasets and data mining of massive datasets through practical applications in predictive analytics.  
-
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Lecture on Big Data Analytics
+        caption: Summer Semester 2014
+        link: http://www.bigdata.uni-frankfurt.de/big-data-analytics-course-summer-semester-2014/
+        link_text: Frankfurt Big Data Lab webpage
+        description: | # this will include new lines to allow paragraphs
+          Focus on basic theoretical and practical techniques for extracting information from large datasets and data mining of massive datasets through practical applications in predictive analytics.  
+          
+          
   - title: Activities & Services
     layout: text
     content: | # this will include new lines to allow paragraphs
