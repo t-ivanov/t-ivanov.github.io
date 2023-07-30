@@ -1099,7 +1099,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
-        title: Lecture on Big Data Analytics
+        title: Big Data Analytics
         caption: Summer Semester 2014
         link: http://www.bigdata.uni-frankfurt.de/big-data-analytics-course-summer-semester-2014/
         link_text: Frankfurt Big Data Lab webpage
