@@ -829,13 +829,13 @@ content:
       
         *Journal Concurrency and Computation: Practice and Experience, Wiley Online Library , e5523, 2019*
       
-      - **Relating Big Data Business and Technical Performance Indicators**
+      - **[Relating Big Data Business and Technical Performance Indicators](https://re.public.polimi.it/retrieve/312656/itAIS2018-camera-ready.pdf){:target="_blank"}**
       
         Barbara Pernici, Chiara Francalanci, Angela Geronazzo, Lucia Polidori, Stefano Ray, Leonardo Riva, Arne Jørgen Berre and **Todor Ivanov**,
       
         *Conference of the Italian Chapter of AIS, itAIS 2018, October 12-13, Pavia, Italy, 2018*
       
-      - **Adding Velocity to BigBench**
+      - **[Adding Velocity to BigBench](https://www.researchgate.net/publication/325589129_Adding_Velocity_to_BigBench){:target="_blank"} & [presentation](https://dbtest.dima.tu-berlin.de/media/DBTEST.io_Presentations/dbtest_ivanov_18-06.pdf){:target="_blank"}**
       
         **Todor Ivanov**, Patrick Bedué, Ahmad Ghazal and Roberto V. Zicari,
       
@@ -847,13 +847,13 @@ content:
       
         *In Encyclopedia of Big Data Technologies. Ed. by Sherif Sakr and Albert Zomaya, Springer International Publishing , pp. 1–10, 2018*
       
-      - **Exploratory Analysis of Spark Structured Streaming**
+      - **[Exploratory Analysis of Spark Structured Streaming](https://research.spec.org/icpe_proceedings/2018/companion/p141.pdf){:target="_blank"}**
       
         **Todor Ivanov** and Jason Taafe,
       
         *In Proceedings of the 4th International Workshop on Performance Analysis of Big data Systems, PABS 2018 , April 9th, Berlin, Germany, 2018*
       
-      - **ABench: Big Data Architecture Stack Benchmark**
+      - **[ABench: Big Data Architecture Stack Benchmark](https://research.spec.org/icpe_proceedings/2018/companion/p13.pdf){:target="_blank"}**
       
         **Todor Ivanov** and Rekha Singhal,
       
@@ -865,13 +865,13 @@ content:
       
         *In Proceedings of the 4th ACM International Conference on Nanoscale Computing and Communication, NANOCOM 2017 , September 27-29, Washington, DC, USA, 2017*
       
-      - **BigBench V2: The New and Improved BigBench**
+      - **[BigBench V2: The New and Improved BigBench](https://github.com/t-ivanov/BigBenchV2/blob/master/paper/ICDE2017_BigBenchV2.pdf){:target="_blank"}**
       
         Ahmad Ghazal, **Todor Ivanov**, Pekka Kostamaa, Alain Crolotte, Ryan Voong, Mohammed Al-Kateb, Waleed Ghazal and Roberto Zicari,
       
         *In Proceedings of 33rd IEEE International Conference on Data Engineering, ICDE 2017 , April 19-22, San Diego, California, USA, 2017*
       
-      - **Setting up a Big Data Project: Challenges, Opportunities, Technologies and Optimization**
+      - **[Setting up a Big Data Project: Challenges, Opportunities, Technologies and Optimization](https://www.researchgate.net/publication/303562879_Setting_Up_a_Big_Data_Project_Challenges_Opportunities_Technologies_and_Optimization){:target="_blank"}**
       
         Roberto V. Zicari, Marten Rosselli, **Todor Ivanov**, Nikolaos Korfiatis, Karsten Tolle, Raik Niemann and Christoph Reichenbach,
       
@@ -883,7 +883,7 @@ content:
       
         *In Managing and Processing Big Data in Cloud Computing, IGI Global Handbook of Research , (pp. 218-245), 2016*
 
-      - **Big Data Benchmark Compendium**
+      - **[Big Data Benchmark Compendium](https://d1wqtxts1xzle7.cloudfront.net/97845762/SPEC-RGBD-TPCTC-2015-Big_20Data_20Benchmark_20Compendium-libre.pdf?1674760510=&response-content-disposition=inline%3B+filename%3DBig_Data_Benchmark_Compendium.pdf&Expires=1690752344&Signature=blPsh4fCUO8n3jajPoVl6WxXvp-a2213oqOXla7bPoihLvSBiLSDEqih8lgzIuKemQ2-mHmv8FlhB9ZFUWp8mZTzftc-57ZftfcxYAYwQUzRLNTBTluWDc7QeLwD8zqvDGH0BbUUYVEdGDm3W8jpHxXjaORzcVnUWoLtpi8omPECEkjWYW1PdhH~nVtz-PnJ8uJrfwYnAsTykYRsr5NymlDOsSeOelaFadsF-FccpwZnK76P1rLdGH2bNyQiHOozZxZwqPhEWvQCtTUvYW66ieXIIgmwIPecq1v~sJSlBCZ7HVd2KQw-2DMJPBCPbgTkzj4r5fXdkKQxJrDElaFo4w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA){:target="_blank"}**
       
         **Todor Ivanov**, Tilmann Rabl, Meikel Poess, Anna Queralt, John Poelman, Nicolas Poggi and Jeffrey Buell,
       
