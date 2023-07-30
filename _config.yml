@@ -494,6 +494,8 @@ content:
           – Introduction to Spark MLlib and Spark SQL
           
           – Introduction to NoSQL and MongoDB
+          
+          
 
         - layout: left
           border: weak  # Value of `weak` will display a weak border below this item. # Any
@@ -501,6 +503,7 @@ content:
           title: Data Challenges 2016
           caption: Hands-on Lab Winter Semester 2016
           link: http://www.bigdata.uni-frankfurt.de/web-business-data-challenges-ws-2016/
+          link_text: Frankfurt Big Data Lab webpage
           description: | # this will include new lines to allow paragraphs
               Supervisor for the Deutsche Bahn Data Challenge: Mobility of the future & ING-DiBa Data Challenge: Future of Financial Data
 
@@ -510,6 +513,7 @@ content:
           title: Applying Big Data Technologies
           caption: Hands-on Lab Summer Semester 2016 and Winter Semester 2015
           link: http://www.bigdata.uni-frankfurt.de/applying-big-data-technologies-ss-2016/
+          link_text: Frankfurt Big Data Lab webpage
           description: | # this will include new lines to allow paragraphs
               Focus on applying Big Data technologies in practice or stress testing them through benchmarks.    
 
@@ -519,6 +523,7 @@ content:
           title: Practical Course on Big Data Platforms
           caption: Hands-on Lab Summer Semester 2015
           link: http://www.bigdata.uni-frankfurt.de/principles-e-commerce-ss2015/
+          link_text: Frankfurt Big Data Lab webpage
           description: | # this will include new lines to allow paragraphs
               Focus on covering the Hadoop architecture and the Hadoop ecosystem of tools. These technologies are at the foundation of the Big Data movement, and they facilitate scalable management and processing of vast quantities of data.    
 
@@ -528,6 +533,7 @@ content:
           title: Lecture on Big Data Analytics
           caption: Summer Semester 2014
           link: http://www.bigdata.uni-frankfurt.de/big-data-analytics-course-summer-semester-2014/
+          link_text: Frankfurt Big Data Lab webpage
           description: | # this will include new lines to allow paragraphs
               Focus on basic theoretical and practical techniques for extracting information from large datasets and data mining of massive datasets through practical applications in predictive analytics.  
 
