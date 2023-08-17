@@ -142,7 +142,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
-        title: Z-Inspection® - A process to assess trustworthy AI
+        title: Z-Inspection
         caption: 2019 - present
         link: https://z-inspection.org/
         link_text: Z-Inspection web
