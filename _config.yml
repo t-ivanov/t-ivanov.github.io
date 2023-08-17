@@ -147,9 +147,9 @@ content:
         link: https://z-inspection.org/
         link_text: Z-Inspection web
         description: | # this will include new lines to allow paragraphs
-            Z-Inspection®: A process to assess trustworthy AI
+          Z-Inspection®: A process to assess trustworthy AI
           
-            [Announcing a New Pilot Project: Assessing Trustworthiness of the use of Generative AI for higher Education.](https://z-inspection.org/general/announcing-a-new-pilot-project-assessing-trustworthiness-of-the-use-of-generative-ai-for-higher-education/){:target="_blank"}
+          [Announcing a New Pilot Project: Assessing Trustworthiness of the use of Generative AI for higher Education.](https://z-inspection.org/general/announcing-a-new-pilot-project-assessing-trustworthiness-of-the-use-of-generative-ai-for-higher-education/){:target="_blank"}
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
