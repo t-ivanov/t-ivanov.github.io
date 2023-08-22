@@ -142,26 +142,14 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
-        title: Z-Inspection®
+        title: Z-Inspection
         caption: 2019 - present
         link: https://z-inspection.org/
         link_text: Z-Inspection web
         description: | # this will include new lines to allow paragraphs
-          Z-Inspection® - A process to assess trustworthy AI
+          Z-Inspection - A process to assess trustworthy AI
 
           [Announcing a New Pilot Project: Assessing Trustworthiness of the use of Generative AI for higher Education.](https://z-inspection.org/general/announcing-a-new-pilot-project-assessing-trustworthiness-of-the-use-of-generative-ai-for-higher-education/){:target="_blank"}
-
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any
-        # other value (or no value) means no border will be displayed
-        title: DataBench EU Project
-        caption: 2018 - 2020
-        link: https://www.databench.eu/
-        link_text: DataBench web
-        description: | # this will include new lines to allow paragraphs
-          At the heart of DataBench is the goal to design a benchmarking process helping European organizations developing Big Data Technologies to reach for excellence and constantly improve their performance, by measuring their technology development activity against parameters of high business relevance.
-          
-          DataBench will investigate existing Big Data benchmarking tools and projects, identify the main gaps and provide a robust set of metrics to compare technical results coming from those tools.
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
