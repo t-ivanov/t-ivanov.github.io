@@ -139,15 +139,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any
-        # other value (or no value) means no border will be displayed
-        title: Z-Inspection
-        caption: 2019 - Present
-        link: https://z-inspection.org/
-        link_text: Z-Inspection web
-        description: | # this will include new lines to allow paragraphs
-          test
+      
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
@@ -197,6 +189,18 @@ content:
           
           Worked on the design and implementation of the Hybrid Page Layout (HPL) and its testing framework.
 
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: Test
+        caption: 2010-2012
+        link: http://www.dvs.tu-darmstadt.de/research/flashydb/index.html
+        link_text: Test web
+        description: | # this will include new lines to allow paragraphs
+          Instrumented and performed multiple experiments with various benchmarks (TPC-B/C/H) to investigate the database performance (MySQL and PostrgeSQL) on Solid State Drives (SSDs). 
+          
+          Worked on the design and implementation of the Hybrid Page Layout (HPL) and its testing framework.
+  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
