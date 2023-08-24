@@ -142,13 +142,12 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
-        title: Z Inspection
+        title: Z-Inspection
         caption: 2019 - Present
         link: https://z-inspection.org/
-        link_text: Z Inspection web
+        link_text: Z-Inspection web
         description: | # this will include new lines to allow paragraphs
-            
-        
+          test
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
