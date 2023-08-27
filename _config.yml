@@ -139,7 +139,6 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
