@@ -239,32 +239,30 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Big Data and AI Pipeline Framework: Technology Analysis from a Benchmarking Perspective**
+      - **[Big Data and AI Pipeline Framework: Technology Analysis from a Benchmarking Perspective](https://link.springer.com/chapter/10.1007/978-3-030-78307-5_4){:target="_blank"}**
       
         Arne Berre, Aphrodite Tsalgatidou, Chiara Francalanci, **Todor Ivanov**, Tomas Pariente-Lobo,
         Ricardo Ruiz-Saiz, Inna Novalija and Marko Grobelnik,
       
         *In Technologies and Applications for Big Data Value, Springer, Cham , pp. 63–88, 2022*
-
-      - **Z-Inspection: A Process to Assess Trustworthy AI**
+      - **[Z-Inspection: A Process to Assess Trustworthy AI](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9380498){:target="_blank"}**
       
         Roberto V. Zicari, John Brodersen, James Brusseau, Boris Düdder, Timo Eichhorn, **Todor Ivanov**, Georgios Kararigas, Pedro Kringen, Melissa McCullough, Florian Möslein, Naveed Mushtaq, Gemma Roig, Norman Stürtz, Karsten Tolle, Jesmin Jahan Tithi, Irmhild van Halem and Magnus Westerlund,
       
         *IEEE Transactions on Technology and Society, 2021, 2, 83-97*
-
-      - **Tutorial on Benchmarking Big Data Analytics Systems**
+      - **[Tutorial on Benchmarking Big Data Analytics Systems](https://www.databench.eu/wp-content/uploads/2020/03/tutorial_on_benchmarking_big_data_analytics_systems.pdf){:target="_blank"}**
       
         **Todor Ivanov** and Rekha Singhal,
       
         *Companion of the 2020 ACM/SPEC International Conference on Performance Engineering, ICPE2020, Edmonton, AB, Canada, April 20-24, 2020*
       
-      - **CoreBigBench: Benchmarking Big Data Core Operations**
+      - **[CoreBigBench: Benchmarking Big Data Core Operations](https://www.databench.eu/wp-content/uploads/2020/08/corebigbench_dbtest_2020.pdf){:target="_blank"}**
       
         **Todor Ivanov**, Ahmad Ghazal, Alain Crolotte, Pekka Kostamaa and Yoseph Ghazal,
       
         *Proceedings of the 8th International Workshop on Testing Database Systems part of SIGMOD 2020, DBTest 2020 , June 19, Portland, Oregon, USA, 2020*
       
-      - **Building the DataBench Workflow and Architecture**
+      - **[Building the DataBench Workflow and Architecture](https://www.databench.eu/wp-content/uploads/2021/03/databench___benchcouncil.pdf){:target="_blank"} & [presentation](https://www.benchcouncil.org/bench19/file/slides/paper10.pdf){:target="_blank"}**
       
         **Todor Ivanov**, Timo Eichhorn, Arne-Jørgen, Tomás Pariente Lobo, Ivan Martinez Rodriguez, Ricardo Ruiz Saiz, Barbara Pernici and Chiara Francalanci,
       
@@ -276,31 +274,31 @@ content:
       
         *Journal Concurrency and Computation: Practice and Experience, Wiley Online Library , e5523, 2019*
       
-      - **Relating Big Data Business and Technical Performance Indicators**
+      - **[Relating Big Data Business and Technical Performance Indicators](https://re.public.polimi.it/retrieve/312656/itAIS2018-camera-ready.pdf){:target="_blank"}**
       
         Barbara Pernici, Chiara Francalanci, Angela Geronazzo, Lucia Polidori, Stefano Ray, Leonardo Riva, Arne Jørgen Berre and **Todor Ivanov**,
       
         *Conference of the Italian Chapter of AIS, itAIS 2018, October 12-13, Pavia, Italy, 2018*
       
-      - **Adding Velocity to BigBench**
+      - **[Adding Velocity to BigBench](https://www.researchgate.net/publication/325589129_Adding_Velocity_to_BigBench){:target="_blank"} & [presentation](https://dbtest.dima.tu-berlin.de/media/DBTEST.io_Presentations/dbtest_ivanov_18-06.pdf){:target="_blank"}**
       
         **Todor Ivanov**, Patrick Bedué, Ahmad Ghazal and Roberto V. Zicari,
       
         *In Proceedings of the 7th International Workshop on Testing Database Systems part of SIGMOD 2018, DBTest 2018 , June 15, Houston, TX, USA, 2018*
       
-      - **Analytics Benchmarks**
+      - **[Analytics Benchmarks](https://link.springer.com/referenceworkentry/10.1007/978-3-319-63962-8_113-1){:target="_blank"}**
       
         **Todor Ivanov** and Roberto V. Zicari,
       
         *In Encyclopedia of Big Data Technologies. Ed. by Sherif Sakr and Albert Zomaya, Springer International Publishing , pp. 1–10, 2018*
       
-      - **Exploratory Analysis of Spark Structured Streaming**
+      - **[Exploratory Analysis of Spark Structured Streaming](https://research.spec.org/icpe_proceedings/2018/companion/p141.pdf){:target="_blank"}**
       
         **Todor Ivanov** and Jason Taafe,
       
         *In Proceedings of the 4th International Workshop on Performance Analysis of Big data Systems, PABS 2018 , April 9th, Berlin, Germany, 2018*
       
-      - **ABench: Big Data Architecture Stack Benchmark**
+      - **[ABench: Big Data Architecture Stack Benchmark](https://research.spec.org/icpe_proceedings/2018/companion/p13.pdf){:target="_blank"}**
       
         **Todor Ivanov** and Rekha Singhal,
       
@@ -312,13 +310,13 @@ content:
       
         *In Proceedings of the 4th ACM International Conference on Nanoscale Computing and Communication, NANOCOM 2017 , September 27-29, Washington, DC, USA, 2017*
       
-      - **BigBench V2: The New and Improved BigBench**
+      - **[BigBench V2: The New and Improved BigBench](https://github.com/t-ivanov/BigBenchV2/blob/master/paper/ICDE2017_BigBenchV2.pdf){:target="_blank"}**
       
         Ahmad Ghazal, **Todor Ivanov**, Pekka Kostamaa, Alain Crolotte, Ryan Voong, Mohammed Al-Kateb, Waleed Ghazal and Roberto Zicari,
       
         *In Proceedings of 33rd IEEE International Conference on Data Engineering, ICDE 2017 , April 19-22, San Diego, California, USA, 2017*
       
-      - **Setting up a Big Data Project: Challenges, Opportunities, Technologies and Optimization**
+      - **[Setting up a Big Data Project: Challenges, Opportunities, Technologies and Optimization](https://www.researchgate.net/publication/303562879_Setting_Up_a_Big_Data_Project_Challenges_Opportunities_Technologies_and_Optimization){:target="_blank"}**
       
         Roberto V. Zicari, Marten Rosselli, **Todor Ivanov**, Nikolaos Korfiatis, Karsten Tolle, Raik Niemann and Christoph Reichenbach,
       
@@ -329,14 +327,13 @@ content:
         **Todor Ivanov**, Sead Izberovic and Nikolaos Korfiatis,
       
         *In Managing and Processing Big Data in Cloud Computing, IGI Global Handbook of Research , (pp. 218-245), 2016*
-
-      - **Big Data Benchmark Compendium**
+      - **[Big Data Benchmark Compendium](https://d1wqtxts1xzle7.cloudfront.net/97845762/SPEC-RGBD-TPCTC-2015-Big_20Data_20Benchmark_20Compendium-libre.pdf?1674760510=&response-content-disposition=inline%3B+filename%3DBig_Data_Benchmark_Compendium.pdf&Expires=1690752344&Signature=blPsh4fCUO8n3jajPoVl6WxXvp-a2213oqOXla7bPoihLvSBiLSDEqih8lgzIuKemQ2-mHmv8FlhB9ZFUWp8mZTzftc-57ZftfcxYAYwQUzRLNTBTluWDc7QeLwD8zqvDGH0BbUUYVEdGDm3W8jpHxXjaORzcVnUWoLtpi8omPECEkjWYW1PdhH~nVtz-PnJ8uJrfwYnAsTykYRsr5NymlDOsSeOelaFadsF-FccpwZnK76P1rLdGH2bNyQiHOozZxZwqPhEWvQCtTUvYW66ieXIIgmwIPecq1v~sJSlBCZ7HVd2KQw-2DMJPBCPbgTkzj4r5fXdkKQxJrDElaFo4w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA){:target="_blank"}**
       
         **Todor Ivanov**, Tilmann Rabl, Meikel Poess, Anna Queralt, John Poelman, Nicolas Poggi and Jeffrey Buell,
       
         *In Proceedings of 7th TPC Technology Conference on Performance Evaluation & Benchmarking, TPCTC 2015 , August 31, 2015 Kohala Coast, Hawai*
       
-      - **Performance Evaluation of Enterprise Big Data Platforms with HiBench**
+      - **[Performance Evaluation of Enterprise Big Data Platforms with HiBench](https://www.researchgate.net/publication/308805671_Performance_Evaluation_of_Enterprise_Big_Data_Platforms_with_HiBench){:target="_blank"}**
       
         **Todor Ivanov**, Raik Niemann, Sead Izberovic, Marten Rosselli, Karsten Tolle and Roberto V. Zicari,
       
@@ -348,7 +345,7 @@ content:
       
         *In Proceedings of the 4th IEEE/ACM International Workshop on Green and Sustainable Software, GREENS 2015 , May 18, 2015, Florence, Italy*
       
-      - **Evaluating Hive and Spark SQL with BigBench**
+      - **[Evaluating Hive and Spark SQL with BigBench](https://arxiv.org/pdf/1512.08417.pdf){:target="_blank"}**
       
         **Todor Ivanov**, Max-Georg Beer and Roberto V. Zicari,
       
@@ -378,7 +375,7 @@ content:
       
         *November 2014, Frankfurt Big Data Lab, [Technical Report No. 2014-1](http://arxiv.org/abs/1411.3811){:target="_blank"}*
       
-      - **Benchmarking Virtualized Hadoop Clusters**
+      - **[Benchmarking Virtualized Hadoop Clusters](https://www.researchgate.net/profile/Todor-Ivanov/publication/300785050_Benchmarking_Virtualized_Hadoop_Clusters/links/5c878ca4a6fdcc88c39c3278/Benchmarking-Virtualized-Hadoop-Clusters.pdf){:target="_blank"}**
       
         **Todor Ivanov**, Roberto Zicari and Alejandro Buchmann,
       
@@ -400,13 +397,13 @@ content:
       
          **Todor Ivanov**, *December 2012, Technical Report*
       
-       - **A Survey on Database Performance in Virtualized Cloud Environments**
+       - **[A Survey on Database Performance in Virtualized Cloud Environments](https://www.researchgate.net/profile/Todor-Ivanov/publication/262215604_A_Survey_on_Database_Performance_in_Virtualized_Cloud_Environments/links/5c878df0458515b59e4575f0/A-Survey-on-Database-Performance-in-Virtualized-Cloud-Environments.pdf){:target="_blank"}**
       
          **Todor Ivanov**, Ilia Petrov and Alejandro Buchmann,
       
          *International Journal of Data Warehousing and Mining, IJDWM 2012 , 8(3), 1-26, July - September 2012*
       
-       - **Page Size Selection for OLTP Databases on SSD RAID Storage**
+       - **[Page Size Selection for OLTP Databases on SSD RAID Storage](https://periodicos.ufmg.br/index.php/jidm/article/view/89/56){:target="_blank"}**
       
          Ilia Petrov, Robert Gottstein, **Todor Ivanov**, Daniel Bausch and Alejandro Buchmann,
       
