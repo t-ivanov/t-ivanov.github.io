@@ -62,7 +62,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: DXC Technologies
+        title: DXC Technology
         link: www.dxc.com
         # link_text: boringcompany.com
         sub_title: Big Data & Analytics
