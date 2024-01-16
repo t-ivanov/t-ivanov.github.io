@@ -49,8 +49,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/Ivanov.png
 about_content: | # this will include new lines to allow paragraphs
-  I am interested in the design and benchmarking of complex distributed software systems or data-intensive applications. In particular, I am interested in software architectures, virtualization, performance optimizations, scalability, effective storage and processing of structured and unstructured data in large systems.
-  
+  I am interested in the design and development of complex distributed software systems for data-intensive applications. In particular, I am interested in software architectures, performance optimizations, scalability, effective storage and processing of large-scale data systems. 
+ 
   🇧🇬 - native  
   
   🇺🇸 - fluent 
