@@ -554,8 +554,8 @@ content:
   - title: Activities & Services
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - June 2024 join [ML Commons AI Safety working group] (https://mlcommons.org/ai-safety/)
-      - April 2024 join [AI Safety Bulgaria initiaive] (https://aisafetybulgaria.com/)
+      - June 2024 join [ML Commons AI Safety working group](https://mlcommons.org/ai-safety/)
+      - April 2024 join [AI Safety Bulgaria initiaive](https://aisafetybulgaria.com/)
       - 2024 Bench Conference, [Program Committee (PC)](https://www.benchcouncil.org/bench2024/committess.html)
       - 2023 Bench Conference, [Program Committee (PC)](https://www.benchcouncil.org/bench2023/committees.html#tpc)
       - 2022 IEEE BigData, [Program Committee (PC)](https://bigdataieee.org/BigData2022/ProgramCommittee.html)
