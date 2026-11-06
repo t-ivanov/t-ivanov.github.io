@@ -52,7 +52,8 @@ about_content: | # this will include new lines to allow paragraphs
   I am a Postdoctoral Researcher at [BigLab!](http://www.mgubanov.com/biglab.html), led by [Prof. Gubanov](http://www.mgubanov.com/index.html) at Florida State University. 
   My research focuses on designing innovative techniques and architectures for efficient data processing in emerging AI-powered data systems, 
   leveraging large language models (LLMs) for information extraction and data fusion.
-  I earned my PhD in Computer Science from Goethe University Frankfurt, Germany, where my research focused on performance evaluation and 
+  
+  Previously, I earned my PhD in Computer Science from Goethe University Frankfurt, Germany, where my research focused on performance evaluation and 
   benchmarking of big data and parallel processing systems. My work contributed to advancing the state of the art through improvements 
   to existing benchmarks and the development of new benchmarking methodologies.
 
