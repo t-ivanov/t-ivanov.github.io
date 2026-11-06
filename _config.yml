@@ -47,7 +47,7 @@ additional_links:
 
 # About Section
 about_title: Welcome
-about_profile_image: images/Todor_Ivanov.jpg
+about_profile_image: images/Todor.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I am a Postdoctoral Researcher at [BigLab!](http://www.mgubanov.com/biglab.html), led by [Prof. Gubanov](http://www.mgubanov.com/index.html) at Florida State University. 
   My research focuses on designing innovative techniques and architectures for efficient data processing in emerging AI-powered data systems, 
@@ -73,7 +73,7 @@ content:
         
         **Todor Ivanov**, Gyanendra Shrestha, Karthik Vemireddy, Anna Pyayt, Michael Gubanov
           
-        *In Companion of the International Conference on Management of Data,(pp. 54-57),2026.*
+        *In SIGMOD Companion 2026,(pp. 54-57).*
       - **[Scalable tabular hierarchical metadata classification in heterogeneous structured large-scale datasets using contrastive learning](https://ieeexplore.ieee.org/abstract/document/11113052/){:target="_blank"}**
         
         Bhimesh Kandibedala, Gyanendra Shrestha, Anna Pyayt, **Todor Ivanov**, Michael Gubanov,
