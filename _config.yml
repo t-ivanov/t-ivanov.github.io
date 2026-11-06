@@ -46,7 +46,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+# about_title: Welcome
 about_profile_image: images/Ivanov.png
 about_content: | # this will include new lines to allow paragraphs
   I am interested in the design and development of complex distributed software systems for data-intensive applications. In particular, I am interested in software architectures, performance optimizations, scalability, effective storage and processing of large-scale data systems. 
