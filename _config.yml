@@ -61,8 +61,8 @@ content:
     content: | # this will include new lines to allow paragraphs
       - **[Fusion.BiTab: Scalable Integration of Bi-dimensional Tables](){:target="_blank"}**
         
-        Sai Ganesh Akula*, Todor Ivanov*, Gyanendra Shrestha*, Anna Pyayt, Michael Gubanov
-        * Equal contribution
+        Sai Ganesh Akula(*), Todor Ivanov(*), Gyanendra Shrestha(*), Anna Pyayt, Michael Gubanov
+        (*)Equal contribution
          
         *To appear in WSDM 2027, Hong Kong, SAR, China
       - **[Hemolix. TabGen: Optimized Table Generation from Documents](https://aclanthology.org/2026.acl-industry.73/){:target="_blank"}**
