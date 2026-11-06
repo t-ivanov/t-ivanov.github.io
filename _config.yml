@@ -59,7 +59,7 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **[Fusion.BiTab: Scalable Integration of Bi-dimensional Tables](){:target="_blank"}**
+      - **Fusion.BiTab: Scalable Integration of Bi-dimensional Tables**
         
         Sai Ganesh Akula(1), Todor Ivanov(1), Gyanendra Shrestha(1), Anna Pyayt, Michael Gubanov
         
