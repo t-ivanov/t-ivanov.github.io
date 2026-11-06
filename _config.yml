@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: Todor V. Ivanov
-title: Big Data Expert and Researcher
-email: todor.v.ivanov@gmail.com
-website: https://t-ivanov.github.io/
+#title: Big Data Expert and Researcher
+#email: todor.v.ivanov@gmail.com
+#website: https://t-ivanov.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -59,6 +59,16 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
+       - **[Hemolix.Extract.V: Llm-based information extraction for documents with ai-based plan selection](https://dl.acm.org/doi/abs/10.1145/3788853.3801601){:target="_blank"}**
+      
+         **Todor Ivanov**, Gyanendra Shrestha, Karthik Vemireddy, Anna Pyayt, Michael Gubanov
+          
+        *In Companion of the International Conference on Management of Data,(pp. 54-57),2026.
+      - **[Scalable tabular hierarchical metadata classification in heterogeneous structured large-scale datasets using contrastive learning](https://ieeexplore.ieee.org/abstract/document/11113052/){:target="_blank"}**
+      
+        Bhimesh Kandibedala, Gyanendra Shrestha, Anna Pyayt, **Todor Ivanov**, Michael Gubanov,
+      
+        *In 2025 IEEE 41st International Conference on Data Engineering (ICDE) (pp. 1841-1854). IEEE.
       - **[Big Data and AI Pipeline Framework: Technology Analysis from a Benchmarking Perspective](https://link.springer.com/chapter/10.1007/978-3-030-78307-5_4){:target="_blank"}**
       
         Arne Berre, Aphrodite Tsalgatidou, Chiara Francalanci, **Todor Ivanov**, Tomas Pariente-Lobo,
