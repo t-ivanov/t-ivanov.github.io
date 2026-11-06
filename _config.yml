@@ -47,7 +47,7 @@ additional_links:
 
 # About Section
 about_title: Welcome
-about_profile_image: images/Ivanov.png
+about_profile_image: images/Todor_Ivanov.png
 about_content: | # this will include new lines to allow paragraphs
   I am a Postdoctoral Researcher at [BigLab!](http://www.mgubanov.com/biglab.html), led by [Prof. Gubanov](http://www.mgubanov.com/index.html) at Florida State University. 
   My research focuses on designing innovative techniques and architectures for efficient data processing in emerging AI-powered data systems, 
