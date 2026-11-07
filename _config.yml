@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Todor V. Ivanov
 #title: Researcher
-email: tivanov@fsu.edu
+#email: tivanov@fsu.edu
 #email: todor.v.ivanov@gmail.com
 #website: https://t-ivanov.github.io/
 #location: Department of Computer Science, Florida State University, 1017 Academic Way, Tallahassee, FL 32304
@@ -62,14 +62,13 @@ about_content: | # this will include new lines to allow paragraphs
  
    <div style="display: table; margin-left: auto; text-align: left;">
     <div style="font-size: 20px; font-weight: normal; margin-bottom: 10px;">
-      <strong>Email:</strong>
+      Email:
       <a href="mailto:tivanov@fsu.edu">
-      <strong>tivanov@fsu.edu</strong>
+      tivanov@fsu.edu
       </a>
     </div>
    
-    <div style="font-size: 20px; font-weight: normal;
-                text-decoration: underline; margin-bottom: 10px;">
+    <div style="font-size: 20px; font-weight: normal; margin-bottom: 10px;">
       Contact Address
     </div>
       <address style="font-size: 16px; font-style: normal; line-height: 1.6;">
