@@ -37,9 +37,9 @@ additional_links:
   - title: dblp.org
     icon: fas fa-globe
     url: https://dblp.org/pid/49/10021.html
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+  - title: Department of Computer Science, Florida State University, 1017 Academic Way, Tallahassee, FL 32304
+    icon: "fas fa-map-marker-alt"
+    url: "https://www.google.com/maps/search/?api=1&query=1017+Academic+Way+Tallahassee+FL+32304"
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -59,11 +59,6 @@ about_content: | # this will include new lines to allow paragraphs
   led by [Prof. Roberto V. Zicari](https://z-inspection.org/team-members/rzicari/). My research contributed to the design and evaluation of benchmarking methodologies for 
   assessing the performance, scalability, and efficiency of big data and parallel processing systems.
 
-  **Address:**
-  Department of Computer Science, 
-  Florida State University, 
-  1017 Academic Way, 
-  Tallahassee, FL 32304
   
 
 content:
