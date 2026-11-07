@@ -60,17 +60,18 @@ about_content: | # this will include new lines to allow paragraphs
   assessing the performance, scalability, and efficiency of big data and parallel processing systems.
 
  
-  <div style="text-align: right;">
-    <p style="text-decoration: underline; font-weight: bold; font-size: 20px;">
+   <div style="display: table; margin-left: auto; text-align: left;">
+    <div style="font-size: 20px; font-weight: bold;
+                text-decoration: underline; margin-bottom: 10px;">
       Contact Address
-    </p>
-    <address style="font-size: 16px; font-style: normal; line-height: 1.6;">
-    Department of Computer Science<br>
-    Florida State University<br>
-    1017 Academic Way<br>
-    Tallahassee, FL 32304, USA<br>
-    </address>
-  </div> 
+    </div>
+      <address style="font-size: 16px; font-style: normal; line-height: 1.6;">
+      Department of Computer Science<br>
+      Florida State University<br>
+      1017 Academic Way<br>
+      Tallahassee, FL 32304, USA<br>
+      </address>
+    </div> 
   
 content:
 
