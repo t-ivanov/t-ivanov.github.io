@@ -49,13 +49,13 @@ additional_links:
 about_title: Welcome
 about_profile_image: images/Todor.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Postdoctoral Researcher at [BigLab!](http://www.mgubanov.com/biglab.html), led by [Prof. Gubanov](http://www.mgubanov.com/index.html) at Florida State University. 
+  I am a Postdoctoral Researcher at [BigLab!](http://www.mgubanov.com/biglab.html), led by [Prof. Michael Gubanov](http://www.mgubanov.com/index.html) at Florida State University. 
   My research focuses on designing innovative techniques and architectures for efficient data processing in emerging AI-powered data systems, 
   leveraging large language models (LLMs) for information extraction and data fusion.
   
-  Previously, I earned my PhD in Computer Science from Goethe University Frankfurt, Germany, where my research focused on performance evaluation and 
-  benchmarking of big data and parallel processing systems. My work contributed to advancing the state of the art through improvements 
-  to existing benchmarks and the development of new benchmarking methodologies.
+  Previously, I earned my PhD in Computer Science from Goethe University Frankfurt, Germany, where I worked as a Research Associate at the [Frankfurt Big Data Lab](http://www.bigdata.uni-frankfurt.de/), 
+  led by [Prof. Roberto V. Zicari](https://z-inspection.org/team-members/rzicari/). My research contributed to the design and evaluation of benchmarking methodologies for 
+  assessing the performance, scalability, and efficiency of big data and parallel processing systems.
 
 content:
 
