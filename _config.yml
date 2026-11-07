@@ -8,8 +8,10 @@ version: 2
 # Personal info
 name: Todor V. Ivanov
 #title: Researcher
+email: tivanov@fsu.edu
 #email: todor.v.ivanov@gmail.com
 #website: https://t-ivanov.github.io/
+address: Department of Computer Science, Florida State University, 1017 Academic Way, Tallahassee, FL 32304
 
 # Dark Mode (true/false/never)
 darkmode: false
