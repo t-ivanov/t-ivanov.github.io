@@ -61,14 +61,10 @@ about_content: | # this will include new lines to allow paragraphs
 
  
    <div style="display: table; margin-left: auto; text-align: left;">
-    <div style="font-size: 20px; font-weight: normal;
-              text-decoration: underline; margin-bottom: 10px;">
-      Email
-    </div>
-
-    <div style="font-size: 18px; margin-bottom: 20px;">
+    <div style="font-size: 20px; font-weight: normal; margin-bottom: 10px;">
+      <strong>Email:</strong>
       <a href="mailto:tivanov@fsu.edu">
-        tivanov@fsu.edu
+      <strong>tivanov@fsu.edu</strong>
       </a>
     </div>
    
