@@ -61,12 +61,11 @@ about_content: | # this will include new lines to allow paragraphs
 
   **Contact Address**
 
-  <address>
+  <address style="font-size: 18px; font-style: normal; line-height: 1.6;">
   Department of Computer Science<br>
   Florida State University<br>
   1017 Academic Way<br>
-  Tallahassee, FL 32304<br>
-  USA 
+  Tallahassee, FL 32304, USA<br>
   </address>
 
 content:
